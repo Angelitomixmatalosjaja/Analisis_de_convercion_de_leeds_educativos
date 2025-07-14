@@ -1,0 +1,2001 @@
+lead_id,fecha_contacto,edad,pais_origen,idioma_interes,canal_contacto,interacciones_previas,conversion,dias_a_conversion,monto_compra_usd
+1,2025-02-19,22,Brasil,Francés,Youtube,1,1,24.0,2216.38
+2,2025-04-24,35,Chile,Alemán,Organico,1,0,,
+3,2025-06-09,44,Chile,Inglés,Organico,3,0,,
+4,2025-06-07,30,México,Alemán,Organico,5,0,,
+5,2025-05-31,26,México,Inglés,Google Ads,2,1,11.0,2383.79
+6,2025-03-31,23,Argentina,Italiano,Instagram,5,0,,
+7,2025-04-15,44,Chile,Italiano,Youtube,3,1,12.0,1733.33
+8,2025-05-20,36,Colombia,Japonés,Youtube,1,1,12.0,1309.74
+9,2025-05-06,22,Brasil,Alemán,Organico,3,1,25.0,1661.51
+10,2025-02-26,41,México,Inglés,Youtube,4,1,3.0,2111.94
+11,2025-06-02,34,Brasil,Italiano,Instagram,4,1,23.0,1626.55
+12,2025-06-12,38,Brasil,Francés,Instagram,5,1,10.0,2176.03
+13,2025-03-07,26,Argentina,Italiano,TikTok,5,1,8.0,930.21
+14,2025-02-03,26,Chile,Francés,TikTok,2,1,11.0,1441.83
+15,2025-06-21,39,México,Inglés,Facebook,2,0,,
+16,2025-01-19,36,Brasil,Italiano,Instagram,4,0,,
+17,2025-03-15,19,México,Italiano,Instagram,1,1,27.0,2003.94
+18,2025-02-05,23,Colombia,Inglés,Instagram,3,0,,
+19,2025-06-08,39,Argentina,Italiano,TikTok,2,0,,
+20,2025-05-18,18,Colombia,Francés,Organico,2,1,16.0,923.69
+21,2025-04-24,37,México,Italiano,Organico,1,1,22.0,2017.82
+22,2025-04-13,36,México,Alemán,Youtube,1,1,22.0,1122.66
+23,2025-04-08,17,Chile,Japonés,Organico,5,1,14.0,2363.82
+24,2025-03-04,39,Brasil,Francés,Google Ads,3,0,,
+25,2025-04-07,27,Brasil,Alemán,TikTok,1,0,,
+26,2025-06-12,21,Colombia,Inglés,Instagram,2,1,28.0,1202.19
+27,2025-05-08,17,Argentina,Francés,Organico,2,0,,
+28,2025-05-23,43,Brasil,Japonés,TikTok,4,0,,
+29,2025-02-14,36,Chile,Japonés,Organico,1,0,,
+30,2025-02-09,16,Colombia,Inglés,Facebook,5,1,5.0,1219.01
+31,2025-03-03,27,Colombia,Inglés,Instagram,3,0,,
+32,2025-05-25,41,Chile,Francés,Facebook,5,1,25.0,2232.17
+33,2025-03-11,37,Argentina,Italiano,Instagram,2,1,28.0,1913.66
+34,2025-04-01,44,Chile,Inglés,TikTok,5,1,15.0,1386.65
+35,2025-02-22,27,Argentina,Italiano,Youtube,2,1,15.0,2191.51
+36,2025-06-20,40,Chile,Alemán,Organico,2,0,,
+37,2025-05-09,32,Chile,Japonés,Organico,2,1,26.0,1287.51
+38,2025-06-01,42,México,Italiano,Google Ads,2,1,19.0,2483.23
+39,2025-03-16,42,Colombia,Japonés,Facebook,2,1,8.0,1107.53
+40,2025-05-10,25,Chile,Italiano,Organico,4,0,,
+41,2025-01-26,43,Chile,Alemán,TikTok,5,1,23.0,2135.61
+42,2025-01-21,43,Brasil,Inglés,Youtube,4,0,,
+43,2025-04-13,31,Colombia,Alemán,TikTok,4,1,27.0,1999.82
+44,2025-03-11,30,Brasil,Inglés,Facebook,1,1,15.0,1185.86
+45,2025-05-24,30,Colombia,Inglés,Google Ads,1,1,17.0,971.6
+46,2025-05-07,34,Brasil,Japonés,Organico,1,1,11.0,1806.5
+47,2025-04-02,27,Chile,Alemán,TikTok,3,1,5.0,1133.63
+48,2025-04-07,38,Chile,Italiano,Instagram,1,1,14.0,1251.39
+49,2025-05-06,35,México,Alemán,Youtube,5,0,,
+50,2025-02-15,40,Brasil,Japonés,TikTok,4,1,8.0,1735.02
+51,2025-04-22,18,Argentina,Inglés,Youtube,5,1,16.0,1509.76
+52,2025-04-10,20,México,Japonés,Organico,1,1,5.0,2196.83
+53,2025-03-04,34,Brasil,Francés,Instagram,3,0,,
+54,2025-04-25,22,Brasil,Francés,Google Ads,3,1,4.0,1364.45
+55,2025-05-10,36,México,Italiano,Google Ads,4,1,24.0,1344.59
+56,2025-04-25,24,Chile,Japonés,Instagram,5,0,,
+57,2025-05-19,22,Brasil,Italiano,Youtube,2,1,4.0,1027.66
+58,2025-07-12,33,Chile,Italiano,Organico,5,1,29.0,1721.41
+59,2025-06-16,19,México,Francés,TikTok,1,1,5.0,2054.42
+60,2025-05-15,40,Chile,Italiano,Instagram,2,1,25.0,2395.68
+61,2025-05-27,43,Colombia,Francés,Facebook,3,1,9.0,2071.68
+62,2025-07-06,29,Argentina,Inglés,Youtube,4,1,14.0,1874.89
+63,2025-03-04,33,Brasil,Japonés,Google Ads,4,1,24.0,1546.58
+64,2025-01-13,41,Argentina,Italiano,Instagram,3,1,4.0,2172.35
+65,2025-05-31,24,Chile,Francés,Google Ads,1,1,13.0,1778.15
+66,2025-04-12,41,Brasil,Alemán,Youtube,3,0,,
+67,2025-03-21,36,Chile,Italiano,Google Ads,1,0,,
+68,2025-01-25,17,Colombia,Inglés,Instagram,2,0,,
+69,2025-06-22,35,México,Inglés,Youtube,3,1,18.0,1817.85
+70,2025-05-04,43,Brasil,Alemán,Facebook,1,1,16.0,2417.93
+71,2025-02-06,30,Colombia,Francés,Instagram,2,1,25.0,1907.87
+72,2025-06-23,43,Colombia,Italiano,TikTok,3,1,6.0,2182.27
+73,2025-04-24,22,Brasil,Francés,Organico,4,0,,
+74,2025-06-15,27,Chile,Inglés,Instagram,3,1,16.0,1041.58
+75,2025-05-11,44,Colombia,Francés,Youtube,5,1,1.0,1324.2
+76,2025-06-12,23,Argentina,Inglés,Organico,3,1,21.0,2254.46
+77,2025-06-24,30,Colombia,Francés,Instagram,5,1,8.0,1002.54
+78,2025-05-23,18,Chile,Alemán,Facebook,2,1,30.0,1122.34
+79,2025-05-19,29,Chile,Japonés,Facebook,3,1,26.0,1689.65
+80,2025-02-23,32,Argentina,Alemán,TikTok,2,1,22.0,1163.57
+81,2025-03-31,19,Colombia,Alemán,Google Ads,2,0,,
+82,2025-06-10,33,Chile,Japonés,Organico,1,1,11.0,1329.92
+83,2025-02-02,23,Brasil,Japonés,Youtube,2,0,,
+84,2025-02-08,19,México,Italiano,Youtube,2,0,,
+85,2025-03-20,17,México,Italiano,Google Ads,3,1,5.0,1459.78
+86,2025-06-26,21,México,Alemán,Facebook,3,0,,
+87,2025-04-03,37,Colombia,Alemán,Facebook,4,1,11.0,1788.01
+88,2025-02-10,25,Argentina,Inglés,Instagram,1,0,,
+89,2025-05-31,19,Chile,Inglés,TikTok,2,1,10.0,1788.42
+90,2025-04-23,37,Brasil,Italiano,Organico,1,1,21.0,1688.83
+91,2025-04-12,44,Brasil,Italiano,TikTok,5,1,17.0,2416.05
+92,2025-01-12,33,Colombia,Inglés,TikTok,2,1,13.0,2060.62
+93,2025-05-11,41,México,Inglés,Instagram,1,0,,
+94,2025-02-16,27,Colombia,Francés,TikTok,4,1,18.0,1885.95
+95,2025-06-30,17,Argentina,Francés,Google Ads,4,0,,
+96,2025-05-23,25,Argentina,Inglés,Instagram,2,1,16.0,1885.96
+97,2025-03-15,19,Chile,Francés,Google Ads,5,0,,
+98,2025-04-05,29,Chile,Japonés,Instagram,4,1,18.0,1639.78
+99,2025-06-03,31,Argentina,Italiano,TikTok,4,1,22.0,2407.68
+100,2025-05-02,30,Argentina,Italiano,Google Ads,5,1,6.0,2249.74
+101,2025-05-30,23,Argentina,Inglés,Google Ads,1,0,,
+102,2025-02-20,29,Colombia,Alemán,Google Ads,4,1,18.0,1440.34
+103,2025-04-28,38,Argentina,Inglés,Instagram,3,1,8.0,1445.07
+104,2025-05-11,43,Brasil,Francés,Youtube,4,1,15.0,2125.25
+105,2025-03-25,40,México,Alemán,TikTok,1,0,,
+106,2025-04-10,23,Argentina,Francés,Google Ads,1,1,11.0,1748.18
+107,2025-07-06,36,México,Japonés,Organico,2,1,25.0,1490.49
+108,2025-03-13,31,Colombia,Francés,Youtube,3,1,29.0,1912.28
+109,2025-04-05,28,México,Japonés,Organico,1,0,,
+110,2025-05-02,33,Colombia,Japonés,TikTok,5,0,,
+111,2025-04-09,30,Brasil,Francés,TikTok,3,1,21.0,1844.37
+112,2025-03-19,36,Colombia,Francés,Google Ads,3,1,6.0,1637.55
+113,2025-07-02,39,Colombia,Japonés,Google Ads,5,1,4.0,2010.21
+114,2025-03-19,41,Chile,Alemán,Instagram,4,1,27.0,2249.48
+115,2025-01-13,40,Argentina,Japonés,Youtube,5,1,24.0,1512.65
+116,2025-07-01,43,Argentina,Italiano,Youtube,5,0,,
+117,2025-05-29,43,Brasil,Japonés,Google Ads,4,1,16.0,2497.47
+118,2025-01-14,43,Brasil,Alemán,TikTok,4,0,,
+119,2025-02-14,28,Argentina,Italiano,Google Ads,4,1,4.0,2307.76
+120,2025-02-15,24,Chile,Inglés,TikTok,4,0,,
+121,2025-05-04,44,Argentina,Inglés,TikTok,4,1,25.0,1941.92
+122,2025-02-16,30,Chile,Alemán,Google Ads,5,1,16.0,1550.6
+123,2025-02-21,28,Brasil,Japonés,Facebook,2,1,11.0,1456.38
+124,2025-03-27,16,México,Francés,Youtube,2,1,23.0,1222.65
+125,2025-01-14,40,Brasil,Alemán,Organico,1,1,28.0,2028.58
+126,2025-03-30,22,Brasil,Italiano,TikTok,2,0,,
+127,2025-02-21,24,Colombia,Italiano,TikTok,2,0,,
+128,2025-02-12,39,Colombia,Inglés,Facebook,5,1,9.0,2236.78
+129,2025-05-14,16,Colombia,Italiano,Organico,4,1,12.0,1187.37
+130,2025-03-20,27,Colombia,Alemán,Instagram,4,1,26.0,1998.83
+131,2025-04-06,23,Chile,Italiano,Facebook,5,1,27.0,1081.56
+132,2025-04-07,39,Argentina,Alemán,Organico,2,1,25.0,1570.8
+133,2025-02-17,26,México,Francés,Facebook,5,0,,
+134,2025-07-03,34,Brasil,Inglés,TikTok,1,0,,
+135,2025-04-03,32,Chile,Italiano,Youtube,4,0,,
+136,2025-01-12,23,México,Alemán,Facebook,3,1,24.0,980.06
+137,2025-03-03,18,Chile,Japonés,Instagram,1,0,,
+138,2025-04-24,18,Chile,Inglés,Google Ads,1,0,,
+139,2025-06-22,16,Brasil,Francés,Organico,5,1,28.0,1708.26
+140,2025-04-24,42,Argentina,Alemán,Facebook,2,1,15.0,2194.45
+141,2025-04-12,20,Colombia,Francés,Facebook,4,0,,
+142,2025-06-27,25,Argentina,Francés,Instagram,3,1,21.0,2166.16
+143,2025-01-25,22,Brasil,Italiano,Youtube,1,1,28.0,2149.26
+144,2025-02-11,41,Brasil,Italiano,Facebook,3,1,8.0,2280.61
+145,2025-05-15,24,Brasil,Alemán,Facebook,2,1,8.0,2297.81
+146,2025-05-08,43,México,Japonés,Youtube,2,1,8.0,1688.85
+147,2025-02-24,22,Argentina,Alemán,Instagram,3,0,,
+148,2025-07-01,24,Argentina,Japonés,Organico,4,0,,
+149,2025-05-19,23,Chile,Francés,Organico,2,1,12.0,2012.51
+150,2025-02-11,27,Chile,Inglés,Facebook,3,1,14.0,2376.2
+151,2025-03-19,17,Chile,Alemán,Youtube,1,1,13.0,1376.77
+152,2025-06-01,16,Brasil,Alemán,Facebook,3,1,17.0,1185.22
+153,2025-03-21,31,Argentina,Japonés,Google Ads,3,1,9.0,1824.92
+154,2025-04-23,38,Brasil,Francés,Organico,5,1,1.0,1883.43
+155,2025-04-20,38,México,Francés,TikTok,2,1,7.0,2302.56
+156,2025-05-10,39,Chile,Japonés,Google Ads,4,1,8.0,2200.41
+157,2025-01-18,20,Brasil,Francés,Facebook,4,1,13.0,1639.42
+158,2025-05-16,18,Brasil,Italiano,Instagram,5,1,7.0,1012.81
+159,2025-01-25,27,México,Inglés,Organico,4,1,30.0,2497.79
+160,2025-03-25,23,Colombia,Alemán,TikTok,3,0,,
+161,2025-07-08,37,Argentina,Inglés,Google Ads,5,1,23.0,1050.78
+162,2025-06-23,42,Colombia,Alemán,Organico,1,0,,
+163,2025-05-10,18,Chile,Italiano,Youtube,2,1,24.0,1504.85
+164,2025-03-17,16,Brasil,Francés,Instagram,2,1,25.0,2122.79
+165,2025-06-14,18,México,Japonés,Google Ads,2,0,,
+166,2025-01-12,20,México,Italiano,Youtube,3,1,22.0,1636.91
+167,2025-07-05,30,Argentina,Inglés,Facebook,1,1,24.0,1742.43
+168,2025-05-01,29,Colombia,Japonés,Youtube,5,1,19.0,1999.08
+169,2025-02-06,18,Argentina,Francés,Google Ads,5,1,27.0,2246.43
+170,2025-02-21,16,Brasil,Italiano,Google Ads,2,0,,
+171,2025-03-02,20,Argentina,Japonés,Facebook,1,1,17.0,1399.41
+172,2025-07-03,41,México,Italiano,Youtube,1,1,17.0,1551.48
+173,2025-06-19,38,México,Italiano,Youtube,1,1,30.0,1375.35
+174,2025-06-15,29,Chile,Francés,Facebook,4,1,4.0,1218.13
+175,2025-05-27,22,Chile,Alemán,Youtube,4,0,,
+176,2025-01-15,42,Brasil,Japonés,Organico,2,0,,
+177,2025-05-01,24,Colombia,Francés,Facebook,1,1,6.0,1038.98
+178,2025-04-06,30,Argentina,Italiano,Instagram,1,1,22.0,1973.56
+179,2025-04-24,30,Brasil,Francés,Google Ads,5,0,,
+180,2025-02-28,41,Chile,Alemán,Instagram,5,1,17.0,994.89
+181,2025-07-08,25,Argentina,Japonés,Organico,2,1,7.0,1648.48
+182,2025-03-22,43,Chile,Alemán,Organico,1,1,29.0,1926.23
+183,2025-06-27,28,Argentina,Inglés,TikTok,2,1,2.0,1323.05
+184,2025-01-12,34,Colombia,Japonés,TikTok,5,0,,
+185,2025-05-17,22,Brasil,Alemán,TikTok,5,0,,
+186,2025-06-11,32,Argentina,Italiano,Facebook,4,1,6.0,2234.6
+187,2025-06-02,35,México,Japonés,Youtube,2,1,7.0,2378.97
+188,2025-06-14,44,México,Japonés,Organico,2,1,7.0,1885.75
+189,2025-01-16,19,Argentina,Francés,Instagram,1,1,17.0,2474.71
+190,2025-01-11,20,Argentina,Italiano,Instagram,1,1,25.0,2143.5
+191,2025-05-29,38,Argentina,Inglés,Instagram,4,0,,
+192,2025-04-01,22,México,Alemán,Instagram,3,1,27.0,1897.8
+193,2025-06-18,28,México,Francés,TikTok,3,1,16.0,1591.83
+194,2025-01-17,30,Argentina,Alemán,Instagram,3,1,2.0,1337.33
+195,2025-06-22,26,Chile,Inglés,Youtube,2,1,28.0,1202.19
+196,2025-02-25,44,Chile,Inglés,TikTok,2,1,25.0,1958.65
+197,2025-04-10,19,Colombia,Japonés,Instagram,5,0,,
+198,2025-07-03,28,Brasil,Inglés,Facebook,2,1,22.0,1375.99
+199,2025-04-14,22,Chile,Alemán,Google Ads,2,0,,
+200,2025-02-22,42,México,Italiano,Google Ads,2,1,13.0,1821.73
+201,2025-02-11,34,Chile,Italiano,Google Ads,4,1,20.0,1267.72
+202,2025-02-07,37,Colombia,Japonés,TikTok,2,1,22.0,1137.88
+203,2025-06-17,43,Colombia,Alemán,Instagram,1,1,16.0,1173.9
+204,2025-02-02,17,Brasil,Alemán,Organico,1,1,2.0,2042.74
+205,2025-01-29,25,Chile,Inglés,Organico,5,1,16.0,1507.84
+206,2025-03-01,28,México,Alemán,Organico,4,0,,
+207,2025-05-11,40,México,Francés,TikTok,1,0,,
+208,2025-03-11,36,Argentina,Inglés,Youtube,4,1,20.0,922.84
+209,2025-07-09,21,México,Francés,Facebook,4,1,12.0,2452.92
+210,2025-06-19,43,Brasil,Japonés,Facebook,5,1,26.0,1115.55
+211,2025-06-22,43,Brasil,Italiano,Google Ads,4,1,14.0,1409.92
+212,2025-05-10,27,México,Japonés,Google Ads,2,1,4.0,2320.1
+213,2025-02-16,27,México,Italiano,Organico,4,0,,
+214,2025-03-15,35,Argentina,Japonés,Organico,5,1,22.0,1134.2
+215,2025-05-22,26,México,Alemán,Google Ads,5,1,27.0,1467.99
+216,2025-04-23,41,Argentina,Francés,Instagram,5,1,29.0,1310.01
+217,2025-05-09,38,Argentina,Italiano,Youtube,1,1,25.0,2220.31
+218,2025-06-12,43,México,Inglés,Youtube,2,1,27.0,1961.04
+219,2025-07-01,40,Colombia,Francés,Youtube,1,1,18.0,1993.92
+220,2025-01-11,22,Colombia,Inglés,Youtube,3,1,21.0,1617.16
+221,2025-06-16,16,Argentina,Francés,Google Ads,2,1,4.0,1679.23
+222,2025-06-11,16,México,Francés,Facebook,4,1,4.0,1313.89
+223,2025-05-19,40,Colombia,Japonés,Google Ads,5,0,,
+224,2025-02-25,42,México,Italiano,Youtube,3,1,30.0,2381.26
+225,2025-03-12,40,México,Italiano,Google Ads,2,1,4.0,1351.84
+226,2025-04-25,35,México,Francés,Youtube,1,0,,
+227,2025-01-26,28,Chile,Alemán,TikTok,5,1,13.0,1476.23
+228,2025-05-21,24,México,Alemán,Organico,1,1,22.0,2060.15
+229,2025-04-25,18,Chile,Inglés,Facebook,2,1,16.0,2314.4
+230,2025-05-28,22,Argentina,Inglés,TikTok,2,1,23.0,1405.27
+231,2025-07-07,21,Colombia,Japonés,Instagram,3,1,11.0,2204.29
+232,2025-03-06,23,Colombia,Francés,Google Ads,4,0,,
+233,2025-04-14,42,Colombia,Inglés,Instagram,1,0,,
+234,2025-01-28,24,Colombia,Inglés,Google Ads,3,1,16.0,1534.17
+235,2025-07-01,20,Colombia,Francés,Organico,5,1,1.0,1347.9
+236,2025-03-06,16,Colombia,Japonés,TikTok,4,1,13.0,2002.03
+237,2025-07-03,34,Colombia,Inglés,Organico,3,1,3.0,1365.96
+238,2025-03-24,25,Argentina,Japonés,Youtube,1,1,10.0,912.45
+239,2025-06-02,27,México,Italiano,Organico,2,1,16.0,2338.8
+240,2025-02-13,39,Brasil,Japonés,Organico,5,0,,
+241,2025-04-18,30,Chile,Alemán,Youtube,1,1,23.0,1031.76
+242,2025-05-03,42,Brasil,Alemán,Google Ads,4,1,14.0,1198.11
+243,2025-03-18,37,Brasil,Japonés,Youtube,4,1,16.0,1705.22
+244,2025-06-25,39,México,Alemán,TikTok,2,0,,
+245,2025-06-30,24,México,Italiano,Organico,2,0,,
+246,2025-01-25,35,México,Francés,Youtube,5,1,4.0,1702.16
+247,2025-02-23,32,Colombia,Alemán,Organico,5,1,24.0,2036.68
+248,2025-01-25,32,Argentina,Alemán,TikTok,2,0,,
+249,2025-03-08,41,Colombia,Japonés,Instagram,2,1,13.0,1186.69
+250,2025-02-14,35,Argentina,Italiano,TikTok,4,0,,
+251,2025-02-07,27,Argentina,Francés,Facebook,2,1,27.0,1814.96
+252,2025-06-01,22,Brasil,Japonés,Facebook,3,1,17.0,1692.51
+253,2025-06-10,17,Brasil,Japonés,Facebook,1,1,2.0,1018.57
+254,2025-07-09,18,Argentina,Italiano,Organico,2,0,,
+255,2025-05-31,32,Argentina,Francés,Google Ads,5,1,22.0,1243.58
+256,2025-04-24,20,Colombia,Italiano,Google Ads,3,0,,
+257,2025-05-09,32,Colombia,Francés,Google Ads,5,1,5.0,1052.07
+258,2025-01-31,39,Brasil,Italiano,Organico,3,1,22.0,1790.95
+259,2025-01-21,32,México,Japonés,TikTok,2,1,12.0,1772.73
+260,2025-06-01,42,Argentina,Japonés,Google Ads,1,1,14.0,1641.88
+261,2025-01-17,32,Colombia,Inglés,Instagram,5,1,7.0,940.67
+262,2025-05-27,17,Brasil,Alemán,Facebook,3,1,1.0,1361.14
+263,2025-06-26,17,Colombia,Italiano,TikTok,4,0,,
+264,2025-02-20,43,Argentina,Inglés,Facebook,2,1,5.0,998.63
+265,2025-04-17,37,Argentina,Alemán,Google Ads,1,0,,
+266,2025-06-12,38,Chile,Italiano,TikTok,2,1,11.0,1751.7
+267,2025-06-09,20,México,Francés,Youtube,4,0,,
+268,2025-04-11,16,Chile,Alemán,Instagram,1,1,18.0,2017.14
+269,2025-04-17,16,Brasil,Japonés,Google Ads,4,1,17.0,1249.98
+270,2025-03-15,34,Colombia,Inglés,Google Ads,2,1,20.0,1651.1
+271,2025-02-21,17,Brasil,Alemán,Instagram,3,1,16.0,1341.74
+272,2025-06-26,36,Argentina,Alemán,Instagram,2,0,,
+273,2025-06-23,27,Chile,Japonés,Youtube,2,1,22.0,1532.78
+274,2025-06-07,41,Chile,Italiano,Google Ads,2,1,10.0,1685.04
+275,2025-05-16,21,Chile,Francés,Organico,5,0,,
+276,2025-07-11,38,Brasil,Japonés,Google Ads,4,1,15.0,2402.57
+277,2025-02-18,19,Argentina,Francés,Facebook,4,0,,
+278,2025-02-02,38,Colombia,Italiano,TikTok,4,1,27.0,1355.38
+279,2025-07-12,26,Colombia,Alemán,TikTok,5,0,,
+280,2025-03-24,39,Brasil,Francés,Facebook,3,1,26.0,1637.1
+281,2025-05-13,42,Chile,Inglés,TikTok,2,1,12.0,2466.29
+282,2025-06-19,32,México,Inglés,Instagram,3,1,2.0,2482.2
+283,2025-03-10,21,Brasil,Japonés,TikTok,5,0,,
+284,2025-06-29,39,Brasil,Italiano,TikTok,4,1,25.0,2067.08
+285,2025-07-02,20,Argentina,Japonés,Facebook,2,1,26.0,2393.46
+286,2025-04-08,35,Colombia,Japonés,Youtube,1,1,13.0,1263.81
+287,2025-03-23,17,Brasil,Japonés,TikTok,1,0,,
+288,2025-02-23,21,Brasil,Inglés,Organico,3,0,,
+289,2025-05-06,37,Chile,Inglés,TikTok,4,0,,
+290,2025-01-21,26,Chile,Japonés,Youtube,1,1,11.0,1569.41
+291,2025-01-30,31,México,Inglés,Facebook,3,1,19.0,1866.58
+292,2025-02-26,31,Argentina,Italiano,Youtube,5,1,14.0,2139.16
+293,2025-01-24,16,México,Japonés,Facebook,3,0,,
+294,2025-07-02,24,Chile,Inglés,Instagram,3,1,7.0,1014.12
+295,2025-07-09,43,Colombia,Francés,Facebook,3,1,29.0,1198.77
+296,2025-05-12,42,Chile,Japonés,Instagram,2,0,,
+297,2025-04-13,21,Argentina,Japonés,Instagram,3,1,7.0,1456.75
+298,2025-05-17,31,Chile,Italiano,Facebook,3,1,12.0,1155.02
+299,2025-01-11,44,Argentina,Alemán,Organico,2,1,28.0,1071.78
+300,2025-04-28,18,Argentina,Alemán,Google Ads,2,1,23.0,1566.23
+301,2025-04-07,35,Argentina,Italiano,Facebook,5,0,,
+302,2025-04-16,43,Argentina,Italiano,TikTok,4,1,26.0,1652.4
+303,2025-06-28,42,Argentina,Italiano,Organico,1,1,8.0,1056.81
+304,2025-06-14,19,Colombia,Alemán,Organico,1,1,1.0,2414.02
+305,2025-01-22,34,México,Italiano,TikTok,3,1,18.0,1395.97
+306,2025-04-29,41,Brasil,Inglés,Google Ads,5,1,30.0,1932.44
+307,2025-05-13,18,México,Japonés,Organico,3,1,29.0,1928.05
+308,2025-03-08,34,Argentina,Japonés,Instagram,1,1,20.0,1707.61
+309,2025-01-31,35,Colombia,Francés,Google Ads,2,1,5.0,2158.07
+310,2025-03-19,22,Chile,Francés,TikTok,4,1,26.0,2232.45
+311,2025-01-29,35,Colombia,Japonés,Google Ads,5,1,8.0,1831.49
+312,2025-03-19,24,Argentina,Inglés,Facebook,2,0,,
+313,2025-04-04,16,Colombia,Alemán,Google Ads,4,0,,
+314,2025-03-18,23,Colombia,Alemán,Instagram,5,0,,
+315,2025-02-28,22,Argentina,Inglés,Facebook,5,1,12.0,1754.44
+316,2025-02-08,33,Colombia,Alemán,Youtube,1,1,30.0,2035.85
+317,2025-05-20,23,Brasil,Italiano,TikTok,2,1,26.0,1893.33
+318,2025-06-25,16,Brasil,Japonés,TikTok,5,1,26.0,2249.22
+319,2025-03-25,26,Colombia,Japonés,Google Ads,5,1,1.0,2219.56
+320,2025-04-04,43,Chile,Inglés,Organico,4,1,18.0,2294.88
+321,2025-05-23,40,Argentina,Alemán,Facebook,1,0,,
+322,2025-04-21,40,Brasil,Francés,Youtube,3,1,23.0,998.41
+323,2025-03-04,33,Chile,Francés,Facebook,1,1,12.0,1508.24
+324,2025-03-22,38,Colombia,Alemán,TikTok,3,0,,
+325,2025-04-11,25,Chile,Francés,Facebook,2,1,22.0,2040.83
+326,2025-02-16,18,México,Inglés,Youtube,2,0,,
+327,2025-05-11,22,Brasil,Inglés,Organico,5,0,,
+328,2025-01-16,43,Colombia,Alemán,Google Ads,2,0,,
+329,2025-03-13,31,Argentina,Francés,Instagram,5,1,15.0,2088.51
+330,2025-04-15,41,Colombia,Inglés,Facebook,1,0,,
+331,2025-04-07,31,Argentina,Inglés,Instagram,2,1,10.0,1150.64
+332,2025-03-14,40,Colombia,Italiano,TikTok,1,1,30.0,1338.82
+333,2025-05-21,35,Chile,Italiano,Google Ads,1,1,6.0,1439.55
+334,2025-05-23,43,Chile,Inglés,Google Ads,2,1,11.0,1114.31
+335,2025-04-23,32,Chile,Alemán,Facebook,1,1,18.0,1573.82
+336,2025-03-27,17,México,Japonés,Organico,2,1,28.0,1189.05
+337,2025-02-27,16,Argentina,Japonés,Google Ads,2,0,,
+338,2025-07-12,31,Chile,Inglés,Facebook,2,0,,
+339,2025-06-25,27,México,Inglés,Facebook,3,0,,
+340,2025-04-30,20,Argentina,Inglés,Instagram,1,1,22.0,1628.02
+341,2025-06-11,20,Colombia,Alemán,Google Ads,4,0,,
+342,2025-02-17,42,México,Italiano,Facebook,2,1,24.0,2165.61
+343,2025-01-12,38,Brasil,Inglés,Instagram,1,0,,
+344,2025-04-20,24,México,Inglés,Youtube,5,0,,
+345,2025-05-26,24,México,Francés,Instagram,2,1,10.0,1613.52
+346,2025-04-27,18,Argentina,Alemán,Instagram,2,0,,
+347,2025-04-22,34,Colombia,Inglés,Facebook,4,1,6.0,2082.39
+348,2025-05-25,31,Brasil,Francés,TikTok,3,1,17.0,2032.58
+349,2025-06-16,31,Chile,Japonés,TikTok,3,1,23.0,1500.8
+350,2025-01-25,18,Chile,Inglés,Organico,2,1,26.0,1003.05
+351,2025-06-29,35,México,Inglés,TikTok,1,0,,
+352,2025-02-05,39,Argentina,Francés,Instagram,5,1,10.0,1287.05
+353,2025-01-18,37,Argentina,Alemán,Organico,5,1,13.0,2355.14
+354,2025-06-16,39,Chile,Inglés,Facebook,1,1,4.0,2136.0
+355,2025-01-29,16,Brasil,Japonés,Google Ads,2,0,,
+356,2025-03-28,39,Colombia,Inglés,Instagram,5,0,,
+357,2025-01-14,35,Brasil,Japonés,Instagram,3,0,,
+358,2025-06-12,26,Colombia,Italiano,Organico,1,0,,
+359,2025-03-04,32,Chile,Italiano,Facebook,4,1,29.0,1264.55
+360,2025-06-10,23,Colombia,Japonés,Youtube,2,1,7.0,1945.92
+361,2025-04-25,19,Argentina,Alemán,Instagram,1,1,5.0,2224.53
+362,2025-02-01,21,México,Inglés,Youtube,5,1,4.0,1689.61
+363,2025-05-05,23,México,Inglés,Youtube,2,0,,
+364,2025-06-09,35,Chile,Italiano,TikTok,3,1,26.0,1144.12
+365,2025-03-13,18,Argentina,Japonés,Facebook,2,0,,
+366,2025-02-21,31,Brasil,Inglés,Youtube,2,1,8.0,2019.54
+367,2025-03-01,40,Argentina,Inglés,Facebook,3,1,24.0,1546.75
+368,2025-05-17,18,México,Alemán,TikTok,3,1,23.0,1066.99
+369,2025-07-05,40,México,Francés,Facebook,2,0,,
+370,2025-01-22,44,Argentina,Italiano,Instagram,3,0,,
+371,2025-07-09,33,Argentina,Italiano,Youtube,1,0,,
+372,2025-05-18,29,México,Francés,Facebook,3,1,1.0,2260.43
+373,2025-02-26,33,Brasil,Inglés,Google Ads,3,0,,
+374,2025-04-06,17,Chile,Alemán,Facebook,2,1,5.0,2000.64
+375,2025-04-09,37,Chile,Alemán,Youtube,1,1,6.0,1164.28
+376,2025-03-22,18,Argentina,Italiano,TikTok,4,0,,
+377,2025-05-14,31,Chile,Alemán,TikTok,4,1,24.0,1204.73
+378,2025-05-30,44,México,Francés,Youtube,5,0,,
+379,2025-05-28,24,México,Inglés,Instagram,3,1,21.0,1346.01
+380,2025-02-15,19,Argentina,Francés,Instagram,3,1,19.0,1523.45
+381,2025-06-25,16,Argentina,Japonés,TikTok,1,0,,
+382,2025-04-18,19,Argentina,Italiano,TikTok,4,1,13.0,1519.31
+383,2025-03-28,16,Brasil,Alemán,Youtube,5,0,,
+384,2025-02-01,29,Chile,Japonés,Instagram,1,1,3.0,2184.75
+385,2025-03-19,36,Argentina,Alemán,TikTok,3,1,16.0,2295.53
+386,2025-07-12,31,Colombia,Inglés,Instagram,4,1,27.0,2491.24
+387,2025-02-06,35,Colombia,Inglés,TikTok,5,1,8.0,1153.19
+388,2025-05-10,39,México,Inglés,Facebook,2,1,5.0,2001.4
+389,2025-03-18,23,Chile,Alemán,Google Ads,4,1,2.0,1963.69
+390,2025-06-17,22,Argentina,Japonés,Organico,5,0,,
+391,2025-04-03,18,Colombia,Inglés,Facebook,1,1,23.0,1340.89
+392,2025-02-12,32,Chile,Japonés,Organico,2,1,5.0,2398.16
+393,2025-02-25,16,México,Alemán,TikTok,5,1,13.0,1864.81
+394,2025-04-26,31,Brasil,Japonés,Google Ads,5,1,8.0,934.6
+395,2025-05-24,27,Chile,Alemán,Google Ads,3,0,,
+396,2025-02-20,42,Chile,Alemán,TikTok,4,0,,
+397,2025-07-12,34,Brasil,Italiano,TikTok,3,1,24.0,1209.05
+398,2025-05-03,37,Chile,Alemán,Instagram,2,0,,
+399,2025-04-30,38,México,Alemán,TikTok,5,1,8.0,1414.66
+400,2025-05-04,37,México,Francés,Youtube,3,1,12.0,1712.56
+401,2025-07-04,29,Brasil,Inglés,TikTok,4,0,,
+402,2025-03-26,21,Argentina,Italiano,Youtube,2,1,2.0,1975.62
+403,2025-03-23,21,Colombia,Italiano,TikTok,1,0,,
+404,2025-03-02,28,Argentina,Italiano,Instagram,3,0,,
+405,2025-04-05,34,Chile,Francés,Youtube,2,1,24.0,2232.77
+406,2025-03-28,37,Colombia,Alemán,Facebook,1,0,,
+407,2025-04-12,23,Brasil,Inglés,Youtube,3,0,,
+408,2025-06-27,42,Brasil,Japonés,Instagram,2,1,29.0,1843.74
+409,2025-05-13,42,Colombia,Alemán,Organico,2,1,21.0,1751.13
+410,2025-03-10,17,México,Francés,Youtube,3,1,1.0,1159.03
+411,2025-03-13,36,Colombia,Alemán,TikTok,2,0,,
+412,2025-04-09,16,Chile,Alemán,TikTok,5,0,,
+413,2025-05-27,43,México,Francés,Organico,3,1,14.0,1665.73
+414,2025-06-01,30,Brasil,Italiano,Instagram,2,1,15.0,1731.12
+415,2025-02-08,16,Colombia,Italiano,Google Ads,1,1,26.0,1497.41
+416,2025-01-14,20,Argentina,Inglés,TikTok,1,1,21.0,1212.91
+417,2025-07-06,43,Argentina,Inglés,Facebook,5,1,26.0,2389.06
+418,2025-04-22,44,Chile,Italiano,Instagram,3,1,6.0,1796.39
+419,2025-01-22,31,Argentina,Japonés,Youtube,2,1,10.0,2292.63
+420,2025-03-08,34,Colombia,Alemán,Youtube,2,1,3.0,962.8
+421,2025-06-15,19,Colombia,Japonés,Facebook,1,1,22.0,1088.89
+422,2025-05-31,18,Argentina,Alemán,TikTok,5,1,10.0,976.03
+423,2025-05-26,32,Colombia,Italiano,Instagram,1,0,,
+424,2025-05-18,32,Chile,Inglés,Facebook,1,1,27.0,1826.27
+425,2025-04-10,27,México,Inglés,TikTok,5,1,22.0,2152.24
+426,2025-02-24,43,Chile,Japonés,Instagram,3,1,19.0,1724.14
+427,2025-03-15,44,Chile,Inglés,Youtube,2,1,19.0,1520.72
+428,2025-01-24,29,Colombia,Italiano,Instagram,3,1,26.0,1578.79
+429,2025-02-01,36,México,Japonés,Organico,4,1,4.0,1827.95
+430,2025-03-07,21,Colombia,Alemán,Google Ads,4,1,15.0,1721.18
+431,2025-01-11,18,Brasil,Inglés,Instagram,4,0,,
+432,2025-07-10,43,Colombia,Francés,Google Ads,5,0,,
+433,2025-05-31,24,Colombia,Inglés,Instagram,1,0,,
+434,2025-06-26,20,Colombia,Alemán,Google Ads,3,0,,
+435,2025-01-20,39,México,Japonés,Organico,2,0,,
+436,2025-05-01,44,Colombia,Alemán,Youtube,4,1,27.0,1711.83
+437,2025-03-10,32,México,Francés,TikTok,3,1,18.0,1421.13
+438,2025-04-14,29,Argentina,Italiano,Google Ads,4,1,13.0,938.36
+439,2025-02-17,36,Brasil,Inglés,Organico,4,1,25.0,2363.1
+440,2025-05-28,18,México,Japonés,Google Ads,2,0,,
+441,2025-05-03,43,Argentina,Italiano,Youtube,5,1,28.0,1786.31
+442,2025-05-12,16,México,Alemán,Google Ads,1,1,26.0,1639.77
+443,2025-05-11,35,México,Japonés,Organico,5,1,14.0,1310.31
+444,2025-04-14,44,Brasil,Italiano,Organico,3,1,1.0,2236.91
+445,2025-02-01,36,Chile,Japonés,Facebook,5,0,,
+446,2025-03-06,38,Chile,Francés,Youtube,3,0,,
+447,2025-03-30,16,México,Francés,Facebook,3,1,17.0,1075.04
+448,2025-03-05,18,Colombia,Inglés,Youtube,1,0,,
+449,2025-04-09,33,Argentina,Inglés,Google Ads,2,1,3.0,1529.36
+450,2025-06-27,40,Colombia,Francés,Organico,1,0,,
+451,2025-06-15,25,Colombia,Japonés,Facebook,5,1,18.0,2127.49
+452,2025-04-19,37,México,Francés,Google Ads,3,1,26.0,1783.23
+453,2025-02-20,41,México,Inglés,Organico,4,1,8.0,1736.77
+454,2025-03-01,18,México,Francés,Youtube,4,0,,
+455,2025-05-23,23,México,Francés,Organico,3,0,,
+456,2025-06-14,29,Chile,Japonés,Google Ads,1,1,19.0,1751.18
+457,2025-03-16,39,México,Italiano,Facebook,2,1,8.0,1230.82
+458,2025-06-11,33,Chile,Inglés,Facebook,1,0,,
+459,2025-02-09,30,Chile,Japonés,Organico,3,1,7.0,1244.01
+460,2025-03-11,37,México,Francés,Google Ads,3,1,20.0,1975.03
+461,2025-01-25,38,Brasil,Francés,Instagram,2,1,27.0,1453.77
+462,2025-07-12,17,Argentina,Italiano,Youtube,5,1,22.0,2445.34
+463,2025-02-19,42,Colombia,Inglés,Youtube,5,0,,
+464,2025-05-17,25,Chile,Inglés,Google Ads,2,0,,
+465,2025-05-27,17,Argentina,Alemán,Instagram,5,1,12.0,1621.45
+466,2025-06-26,41,Brasil,Inglés,Facebook,4,1,10.0,1699.96
+467,2025-01-19,32,Colombia,Italiano,TikTok,5,0,,
+468,2025-06-07,23,Colombia,Alemán,TikTok,5,1,14.0,1200.87
+469,2025-05-17,16,Chile,Alemán,Google Ads,5,0,,
+470,2025-01-21,24,México,Francés,Instagram,4,1,9.0,1936.27
+471,2025-06-04,26,Brasil,Francés,Instagram,5,1,8.0,1134.88
+472,2025-03-05,37,Chile,Inglés,Youtube,4,0,,
+473,2025-06-15,31,Brasil,Alemán,Facebook,2,0,,
+474,2025-06-03,22,México,Francés,Organico,1,1,18.0,1698.16
+475,2025-03-04,44,México,Italiano,Instagram,2,0,,
+476,2025-02-08,25,Chile,Francés,Organico,1,1,21.0,2074.23
+477,2025-01-11,38,México,Francés,TikTok,2,1,7.0,1171.53
+478,2025-06-04,41,Argentina,Alemán,Organico,1,0,,
+479,2025-02-26,18,Colombia,Alemán,Facebook,1,0,,
+480,2025-05-07,33,Chile,Japonés,Facebook,3,1,11.0,2168.82
+481,2025-07-09,40,Brasil,Italiano,Organico,1,1,13.0,1639.73
+482,2025-06-13,39,Argentina,Alemán,Google Ads,1,1,18.0,2146.51
+483,2025-02-09,28,Chile,Inglés,Instagram,3,1,8.0,1121.24
+484,2025-06-29,43,México,Italiano,Google Ads,5,1,26.0,1438.91
+485,2025-02-20,41,México,Italiano,Organico,5,0,,
+486,2025-02-17,22,México,Alemán,Instagram,3,1,8.0,1227.17
+487,2025-04-12,40,México,Italiano,Youtube,4,0,,
+488,2025-06-01,19,Brasil,Alemán,Google Ads,1,1,6.0,1109.4
+489,2025-05-18,28,Argentina,Francés,Google Ads,1,1,4.0,1121.41
+490,2025-03-11,35,Colombia,Japonés,Organico,3,1,3.0,2247.24
+491,2025-02-03,16,Brasil,Francés,TikTok,3,1,30.0,2241.93
+492,2025-03-23,23,Brasil,Alemán,Organico,4,1,19.0,1867.38
+493,2025-02-08,29,Colombia,Alemán,Google Ads,5,0,,
+494,2025-02-25,31,Colombia,Francés,Instagram,2,1,23.0,1716.1
+495,2025-06-18,29,México,Inglés,TikTok,5,0,,
+496,2025-07-12,27,Brasil,Inglés,Organico,1,1,9.0,1398.84
+497,2025-02-12,34,Chile,Inglés,Organico,3,0,,
+498,2025-04-12,38,Colombia,Alemán,Google Ads,4,1,30.0,2129.13
+499,2025-01-21,30,Colombia,Italiano,Google Ads,5,0,,
+500,2025-06-22,43,Argentina,Alemán,Youtube,4,1,6.0,952.76
+501,2025-03-27,17,Chile,Italiano,Organico,5,0,,
+502,2025-06-22,17,Chile,Francés,Google Ads,1,0,,
+503,2025-04-06,38,Colombia,Japonés,Facebook,2,1,12.0,1728.29
+504,2025-03-18,37,México,Italiano,TikTok,4,1,21.0,1324.59
+505,2025-02-23,34,Argentina,Inglés,Facebook,4,1,10.0,1458.66
+506,2025-05-16,40,Chile,Alemán,TikTok,2,0,,
+507,2025-04-10,41,Colombia,Francés,Organico,4,1,14.0,1390.87
+508,2025-05-05,44,Chile,Inglés,Youtube,4,1,13.0,2389.63
+509,2025-04-30,37,Argentina,Francés,Google Ads,5,1,12.0,1452.29
+510,2025-02-06,41,Argentina,Japonés,Google Ads,5,1,4.0,1446.41
+511,2025-01-14,41,Brasil,Alemán,Google Ads,2,0,,
+512,2025-01-31,37,Colombia,Alemán,Organico,1,1,26.0,2129.55
+513,2025-04-11,32,Argentina,Japonés,TikTok,4,1,4.0,2476.43
+514,2025-06-28,35,Brasil,Alemán,Google Ads,1,0,,
+515,2025-04-26,25,Brasil,Italiano,Facebook,2,1,19.0,1288.34
+516,2025-06-12,21,Chile,Francés,Google Ads,2,0,,
+517,2025-04-26,30,Chile,Inglés,Organico,5,1,1.0,1011.83
+518,2025-02-01,37,Brasil,Japonés,Youtube,4,1,9.0,1820.83
+519,2025-04-27,26,Chile,Italiano,Facebook,3,1,9.0,903.09
+520,2025-03-24,43,Argentina,Inglés,Google Ads,2,0,,
+521,2025-07-04,20,México,Inglés,Google Ads,4,1,9.0,2453.37
+522,2025-06-23,16,Argentina,Japonés,Instagram,1,1,9.0,2071.69
+523,2025-06-21,23,Brasil,Italiano,TikTok,5,1,11.0,1243.29
+524,2025-02-27,36,Brasil,Inglés,Facebook,1,1,23.0,971.53
+525,2025-04-07,43,Argentina,Inglés,Instagram,2,0,,
+526,2025-01-12,27,Chile,Italiano,Youtube,2,1,21.0,2477.64
+527,2025-01-28,27,Chile,Alemán,TikTok,1,0,,
+528,2025-04-11,20,Brasil,Inglés,Facebook,2,1,3.0,1662.94
+529,2025-03-28,22,Colombia,Francés,Google Ads,4,0,,
+530,2025-01-12,19,Chile,Italiano,Facebook,2,1,17.0,1442.08
+531,2025-06-27,21,Argentina,Inglés,Google Ads,5,1,25.0,1196.33
+532,2025-04-30,28,Chile,Japonés,TikTok,4,1,24.0,2170.14
+533,2025-01-29,35,Argentina,Francés,Google Ads,3,0,,
+534,2025-02-23,30,Brasil,Inglés,Youtube,2,1,18.0,1760.04
+535,2025-04-29,18,Chile,Francés,Organico,2,0,,
+536,2025-02-27,38,Argentina,Francés,Google Ads,5,0,,
+537,2025-03-03,23,Brasil,Alemán,Youtube,5,1,7.0,955.81
+538,2025-03-05,35,Colombia,Francés,Organico,1,1,28.0,1884.64
+539,2025-02-17,31,Argentina,Alemán,TikTok,1,1,17.0,2349.58
+540,2025-03-12,28,Colombia,Italiano,TikTok,1,1,9.0,2013.03
+541,2025-04-29,33,Colombia,Alemán,Facebook,5,0,,
+542,2025-05-22,43,México,Japonés,Youtube,1,0,,
+543,2025-05-08,25,Chile,Inglés,Youtube,1,1,13.0,983.59
+544,2025-01-14,34,Argentina,Italiano,Instagram,3,1,18.0,2129.44
+545,2025-05-01,32,Colombia,Italiano,Instagram,1,1,4.0,1935.38
+546,2025-01-15,39,México,Japonés,Organico,2,1,8.0,1703.41
+547,2025-01-13,34,Brasil,Alemán,Organico,5,0,,
+548,2025-01-20,43,Argentina,Inglés,Instagram,4,1,17.0,1026.11
+549,2025-07-09,41,Colombia,Alemán,Organico,3,0,,
+550,2025-06-18,38,Chile,Francés,Google Ads,5,1,20.0,1727.84
+551,2025-05-12,41,México,Alemán,Instagram,5,1,2.0,960.99
+552,2025-04-18,20,Colombia,Italiano,Youtube,2,1,9.0,1722.45
+553,2025-05-07,41,Chile,Inglés,Google Ads,1,1,6.0,2290.32
+554,2025-03-21,36,Colombia,Alemán,Organico,2,1,28.0,1932.55
+555,2025-05-02,38,Argentina,Inglés,TikTok,1,0,,
+556,2025-05-02,24,Argentina,Inglés,Facebook,1,0,,
+557,2025-03-20,27,Argentina,Francés,Instagram,5,1,3.0,2388.56
+558,2025-03-12,36,México,Francés,TikTok,1,1,14.0,2141.87
+559,2025-06-02,16,Argentina,Italiano,Organico,3,1,24.0,1109.35
+560,2025-03-03,41,Chile,Japonés,Youtube,3,0,,
+561,2025-05-19,41,Colombia,Inglés,Facebook,3,1,14.0,1388.57
+562,2025-03-20,16,Brasil,Japonés,TikTok,5,0,,
+563,2025-05-21,30,Chile,Italiano,Facebook,2,1,25.0,2163.48
+564,2025-06-10,17,Chile,Inglés,Instagram,4,1,23.0,1310.38
+565,2025-02-21,37,Argentina,Inglés,Organico,1,0,,
+566,2025-01-31,31,México,Japonés,Youtube,4,1,13.0,2478.21
+567,2025-01-22,40,Colombia,Alemán,Organico,2,1,11.0,1315.28
+568,2025-04-08,23,México,Francés,Facebook,2,1,24.0,2225.24
+569,2025-03-11,28,Colombia,Alemán,TikTok,5,1,8.0,1033.12
+570,2025-07-11,36,Colombia,Japonés,Instagram,3,1,10.0,2304.49
+571,2025-02-08,16,México,Francés,Instagram,3,0,,
+572,2025-06-06,31,Chile,Alemán,Organico,2,0,,
+573,2025-02-12,44,Colombia,Francés,TikTok,5,1,7.0,1853.65
+574,2025-01-12,22,México,Inglés,TikTok,5,0,,
+575,2025-06-03,20,Colombia,Alemán,Facebook,1,1,3.0,1702.74
+576,2025-05-24,37,Brasil,Francés,Organico,3,1,10.0,1464.81
+577,2025-03-17,44,Chile,Francés,Organico,2,1,29.0,2102.04
+578,2025-02-26,38,Argentina,Francés,Google Ads,4,1,30.0,1660.67
+579,2025-04-10,18,Colombia,Alemán,Organico,3,1,15.0,1690.38
+580,2025-03-31,27,Brasil,Italiano,Instagram,1,0,,
+581,2025-05-05,41,Argentina,Alemán,Facebook,5,1,20.0,2311.47
+582,2025-03-15,31,Argentina,Japonés,TikTok,2,1,26.0,1758.6
+583,2025-04-23,34,Colombia,Alemán,Organico,3,1,16.0,1483.02
+584,2025-05-21,20,México,Francés,Facebook,4,0,,
+585,2025-03-20,37,Colombia,Inglés,Organico,1,0,,
+586,2025-01-25,40,Brasil,Alemán,TikTok,1,1,2.0,1554.95
+587,2025-06-22,44,Argentina,Alemán,Youtube,3,1,7.0,2050.09
+588,2025-06-11,29,Colombia,Francés,TikTok,4,1,5.0,2492.83
+589,2025-02-26,43,México,Inglés,TikTok,1,1,21.0,980.04
+590,2025-05-15,20,Colombia,Inglés,TikTok,2,1,13.0,2324.03
+591,2025-07-08,30,Chile,Japonés,Organico,1,1,23.0,1473.61
+592,2025-02-16,32,México,Alemán,Google Ads,4,1,16.0,2274.38
+593,2025-05-24,29,Brasil,Inglés,TikTok,5,1,26.0,1553.99
+594,2025-06-01,35,Argentina,Inglés,Instagram,5,1,10.0,2036.39
+595,2025-05-02,20,Colombia,Italiano,Instagram,3,0,,
+596,2025-05-31,27,México,Italiano,Facebook,4,0,,
+597,2025-04-22,31,Chile,Inglés,Google Ads,1,1,12.0,2163.96
+598,2025-02-02,41,México,Japonés,Facebook,1,1,21.0,2256.75
+599,2025-02-20,41,Chile,Inglés,Instagram,5,1,23.0,1845.75
+600,2025-02-27,31,Brasil,Francés,Instagram,5,1,18.0,969.53
+601,2025-01-31,36,Argentina,Alemán,Youtube,2,0,,
+602,2025-06-07,22,Brasil,Japonés,TikTok,5,1,9.0,2456.63
+603,2025-03-18,19,Colombia,Francés,Instagram,2,0,,
+604,2025-05-28,16,México,Japonés,Organico,1,0,,
+605,2025-05-14,20,Chile,Francés,Organico,2,1,21.0,2077.44
+606,2025-01-19,38,Chile,Alemán,Facebook,2,1,14.0,2280.85
+607,2025-06-03,41,México,Alemán,Facebook,3,1,6.0,2290.96
+608,2025-03-08,25,México,Italiano,TikTok,5,1,2.0,1796.86
+609,2025-01-21,37,Colombia,Francés,TikTok,2,1,13.0,1147.19
+610,2025-01-22,20,Brasil,Italiano,Youtube,1,1,5.0,2258.46
+611,2025-01-26,19,Chile,Francés,Google Ads,4,0,,
+612,2025-06-12,17,Colombia,Italiano,Facebook,2,1,1.0,1795.32
+613,2025-07-11,35,Brasil,Alemán,TikTok,5,1,6.0,2189.63
+614,2025-02-07,25,Colombia,Japonés,Facebook,3,1,30.0,2065.42
+615,2025-03-15,41,Chile,Italiano,TikTok,1,0,,
+616,2025-04-01,34,México,Francés,Instagram,3,1,5.0,1584.52
+617,2025-01-12,41,México,Francés,Facebook,4,0,,
+618,2025-02-12,16,Brasil,Alemán,Instagram,2,1,8.0,955.21
+619,2025-02-10,39,Argentina,Francés,Facebook,2,1,13.0,1179.33
+620,2025-01-30,20,Brasil,Inglés,Google Ads,5,1,28.0,1228.44
+621,2025-01-14,28,Argentina,Japonés,Youtube,2,1,25.0,1321.38
+622,2025-03-23,19,Colombia,Italiano,Organico,1,0,,
+623,2025-04-02,31,Colombia,Japonés,Organico,4,1,22.0,1858.56
+624,2025-03-19,39,Chile,Alemán,Organico,3,0,,
+625,2025-05-21,31,Argentina,Italiano,Instagram,4,1,13.0,1694.09
+626,2025-04-06,38,Chile,Italiano,TikTok,2,1,28.0,1495.59
+627,2025-04-07,17,México,Inglés,Organico,3,1,1.0,2075.05
+628,2025-01-14,32,Argentina,Alemán,Google Ads,5,1,30.0,1576.6
+629,2025-05-04,43,Brasil,Francés,Organico,4,0,,
+630,2025-07-08,42,México,Inglés,Facebook,3,0,,
+631,2025-05-15,35,México,Inglés,Instagram,3,1,2.0,1800.27
+632,2025-01-19,39,Brasil,Japonés,Facebook,3,1,22.0,2397.83
+633,2025-05-30,27,México,Japonés,Facebook,1,1,8.0,2042.61
+634,2025-03-17,33,Argentina,Japonés,Facebook,4,1,13.0,2326.05
+635,2025-05-20,18,Chile,Inglés,Youtube,3,1,20.0,1188.62
+636,2025-03-30,43,México,Francés,Youtube,4,1,16.0,1373.48
+637,2025-03-07,16,Argentina,Italiano,TikTok,3,1,29.0,1220.56
+638,2025-02-22,16,Colombia,Japonés,Instagram,5,1,24.0,2198.98
+639,2025-06-18,44,Argentina,Francés,Google Ads,5,1,28.0,2097.24
+640,2025-04-13,34,Chile,Alemán,Google Ads,5,1,20.0,1060.39
+641,2025-04-30,26,Argentina,Japonés,Google Ads,2,1,26.0,1817.24
+642,2025-07-04,20,Brasil,Italiano,Facebook,3,1,26.0,2229.48
+643,2025-02-10,27,Chile,Alemán,Youtube,2,0,,
+644,2025-05-15,18,Colombia,Alemán,Instagram,4,1,13.0,2088.37
+645,2025-04-14,16,Brasil,Italiano,Facebook,2,1,9.0,1496.81
+646,2025-05-23,16,Argentina,Japonés,Youtube,4,1,19.0,1558.0
+647,2025-06-03,23,Chile,Inglés,Youtube,4,1,26.0,2367.76
+648,2025-02-28,25,Colombia,Italiano,Organico,4,0,,
+649,2025-01-16,26,Brasil,Italiano,Organico,2,1,6.0,2441.57
+650,2025-06-25,27,Colombia,Italiano,Instagram,3,0,,
+651,2025-03-09,44,Argentina,Alemán,Instagram,2,0,,
+652,2025-04-04,28,Colombia,Francés,Instagram,3,1,25.0,900.39
+653,2025-06-19,27,México,Inglés,Facebook,3,1,16.0,1827.71
+654,2025-02-16,29,Brasil,Japonés,TikTok,4,0,,
+655,2025-06-10,17,Colombia,Japonés,Instagram,2,1,24.0,929.34
+656,2025-02-09,44,Argentina,Francés,Organico,3,1,16.0,1055.12
+657,2025-04-27,34,Argentina,Italiano,TikTok,5,1,19.0,1654.46
+658,2025-03-21,33,Colombia,Inglés,Facebook,3,1,26.0,2401.55
+659,2025-03-18,18,Argentina,Japonés,TikTok,5,1,22.0,2416.54
+660,2025-04-03,38,Chile,Japonés,Google Ads,2,1,28.0,947.27
+661,2025-06-23,32,Chile,Italiano,TikTok,2,0,,
+662,2025-04-23,41,Chile,Francés,Instagram,2,1,18.0,1387.42
+663,2025-03-27,23,México,Inglés,Facebook,3,0,,
+664,2025-04-21,44,Colombia,Francés,Instagram,1,1,13.0,2291.85
+665,2025-06-17,41,México,Francés,Organico,3,1,8.0,1735.0
+666,2025-03-25,25,Argentina,Inglés,Google Ads,3,1,25.0,1751.06
+667,2025-04-15,41,México,Inglés,Organico,4,1,3.0,1826.3
+668,2025-06-08,17,Argentina,Japonés,Instagram,4,1,2.0,2499.21
+669,2025-04-23,34,Argentina,Japonés,Instagram,3,1,9.0,2142.25
+670,2025-06-05,24,Brasil,Inglés,Instagram,5,0,,
+671,2025-06-29,22,Chile,Alemán,Youtube,4,1,4.0,2217.16
+672,2025-04-24,19,Argentina,Japonés,Google Ads,3,1,1.0,2470.53
+673,2025-04-16,41,Brasil,Alemán,Instagram,1,0,,
+674,2025-04-13,36,Chile,Inglés,Instagram,5,0,,
+675,2025-04-25,33,Argentina,Japonés,Organico,2,1,18.0,904.99
+676,2025-03-02,28,Argentina,Francés,Organico,3,1,23.0,1073.77
+677,2025-03-28,26,México,Inglés,Instagram,3,0,,
+678,2025-03-05,44,México,Italiano,Facebook,5,1,30.0,1891.84
+679,2025-02-13,39,Chile,Alemán,Youtube,4,1,16.0,2299.21
+680,2025-04-01,19,Argentina,Inglés,Organico,4,1,13.0,1983.36
+681,2025-06-28,40,Colombia,Inglés,Facebook,4,0,,
+682,2025-05-07,36,México,Japonés,Youtube,2,1,12.0,986.24
+683,2025-05-13,44,Chile,Japonés,Instagram,5,0,,
+684,2025-04-05,40,Argentina,Japonés,Google Ads,5,1,24.0,2239.24
+685,2025-05-27,19,Argentina,Italiano,TikTok,4,0,,
+686,2025-03-05,25,Colombia,Japonés,TikTok,4,1,13.0,1362.96
+687,2025-04-02,20,Chile,Inglés,Instagram,1,1,15.0,1583.85
+688,2025-01-15,24,Argentina,Japonés,Organico,1,0,,
+689,2025-01-13,39,México,Francés,Facebook,3,1,4.0,1331.67
+690,2025-03-27,18,Colombia,Japonés,Google Ads,3,1,28.0,1652.45
+691,2025-07-12,32,Chile,Italiano,Youtube,5,1,25.0,1719.89
+692,2025-03-19,18,Colombia,Francés,Instagram,5,1,26.0,1748.42
+693,2025-05-31,31,México,Inglés,Google Ads,2,1,26.0,1302.09
+694,2025-03-01,19,Chile,Inglés,Google Ads,2,0,,
+695,2025-03-01,33,Colombia,Alemán,Organico,1,1,28.0,1608.56
+696,2025-04-13,32,Brasil,Francés,Youtube,3,1,11.0,2086.89
+697,2025-05-19,22,México,Alemán,Google Ads,1,1,29.0,2182.57
+698,2025-03-10,39,México,Francés,Organico,1,1,9.0,1274.45
+699,2025-04-02,38,México,Francés,Facebook,3,0,,
+700,2025-07-07,20,Brasil,Italiano,Organico,2,1,13.0,2158.67
+701,2025-02-07,27,Brasil,Alemán,Facebook,3,1,27.0,1674.83
+702,2025-05-20,32,Argentina,Italiano,Facebook,4,0,,
+703,2025-06-29,38,Colombia,Francés,Google Ads,4,1,2.0,900.3
+704,2025-06-24,28,Argentina,Inglés,Organico,4,0,,
+705,2025-01-19,38,Colombia,Francés,Facebook,5,0,,
+706,2025-03-30,40,Brasil,Italiano,Youtube,2,0,,
+707,2025-04-28,18,Brasil,Alemán,Google Ads,2,1,28.0,1804.73
+708,2025-03-13,24,Argentina,Alemán,Organico,5,0,,
+709,2025-05-12,32,Chile,Italiano,Organico,1,0,,
+710,2025-05-14,32,Argentina,Alemán,TikTok,4,1,13.0,1859.55
+711,2025-02-04,35,Colombia,Japonés,Organico,4,1,2.0,2099.4
+712,2025-05-06,31,Argentina,Inglés,Google Ads,1,1,5.0,1438.87
+713,2025-02-16,40,México,Inglés,Youtube,3,1,10.0,2461.73
+714,2025-03-23,37,Colombia,Inglés,Organico,3,1,2.0,2391.99
+715,2025-03-06,28,Colombia,Alemán,TikTok,2,1,9.0,1609.21
+716,2025-04-18,42,Chile,Alemán,Google Ads,5,1,20.0,1652.15
+717,2025-01-21,34,Brasil,Francés,Facebook,2,1,2.0,2228.28
+718,2025-06-22,32,Colombia,Francés,Instagram,3,1,23.0,1098.78
+719,2025-05-08,19,Brasil,Inglés,Instagram,1,1,24.0,1865.32
+720,2025-03-04,27,Argentina,Japonés,Facebook,2,0,,
+721,2025-02-02,44,México,Francés,Organico,4,1,28.0,1602.25
+722,2025-04-02,24,Chile,Francés,Instagram,4,1,17.0,2292.64
+723,2025-05-09,34,Brasil,Alemán,Instagram,1,1,16.0,1252.0
+724,2025-06-11,27,Colombia,Japonés,Facebook,3,1,15.0,1369.42
+725,2025-04-21,24,Brasil,Inglés,Organico,4,0,,
+726,2025-03-08,22,Colombia,Francés,Organico,4,0,,
+727,2025-01-18,43,Brasil,Japonés,Facebook,5,1,14.0,1027.43
+728,2025-05-20,29,Colombia,Japonés,Organico,2,0,,
+729,2025-06-28,35,Argentina,Inglés,Organico,3,1,3.0,1420.21
+730,2025-05-11,34,Colombia,Japonés,Google Ads,2,1,10.0,1676.12
+731,2025-06-27,41,Colombia,Japonés,Google Ads,3,1,6.0,1099.38
+732,2025-06-20,30,México,Japonés,Facebook,4,0,,
+733,2025-04-08,31,Colombia,Francés,Youtube,5,1,17.0,1135.86
+734,2025-01-26,36,México,Inglés,Instagram,2,0,,
+735,2025-03-26,20,Chile,Japonés,Google Ads,4,0,,
+736,2025-01-17,18,México,Japonés,Instagram,3,1,25.0,2414.73
+737,2025-05-03,27,Argentina,Francés,TikTok,2,1,5.0,1300.39
+738,2025-06-19,40,México,Inglés,Facebook,2,0,,
+739,2025-06-09,35,Chile,Alemán,Youtube,4,1,7.0,1497.83
+740,2025-05-12,42,Argentina,Francés,TikTok,2,1,4.0,1187.83
+741,2025-05-24,36,Brasil,Inglés,TikTok,5,1,16.0,1871.63
+742,2025-02-22,19,Brasil,Japonés,Organico,5,1,27.0,2393.4
+743,2025-06-18,36,México,Inglés,TikTok,4,1,14.0,951.38
+744,2025-01-25,38,México,Inglés,Facebook,3,1,17.0,1489.63
+745,2025-01-27,31,Chile,Inglés,Google Ads,4,1,4.0,2115.18
+746,2025-06-04,40,Chile,Alemán,Facebook,5,1,11.0,2025.61
+747,2025-06-27,22,Colombia,Inglés,Google Ads,1,0,,
+748,2025-03-24,28,Chile,Alemán,TikTok,1,0,,
+749,2025-03-26,36,Colombia,Japonés,TikTok,2,1,17.0,2384.5
+750,2025-07-03,25,Argentina,Alemán,Youtube,2,1,27.0,951.46
+751,2025-04-22,41,México,Japonés,Google Ads,1,0,,
+752,2025-07-01,22,Argentina,Japonés,TikTok,5,1,11.0,1566.94
+753,2025-05-20,29,Chile,Alemán,Organico,2,1,24.0,1284.2
+754,2025-05-09,41,Argentina,Francés,Instagram,4,0,,
+755,2025-06-25,20,Argentina,Italiano,Youtube,4,0,,
+756,2025-01-13,18,Argentina,Inglés,Facebook,5,0,,
+757,2025-05-27,38,Chile,Italiano,Youtube,2,0,,
+758,2025-07-12,44,Argentina,Inglés,Instagram,4,1,21.0,2445.69
+759,2025-06-08,26,Colombia,Inglés,Google Ads,2,1,10.0,1183.27
+760,2025-02-25,26,Chile,Japonés,Facebook,2,0,,
+761,2025-05-30,33,Argentina,Inglés,Facebook,4,1,8.0,2398.16
+762,2025-02-13,30,Chile,Inglés,Google Ads,1,1,28.0,913.16
+763,2025-04-07,27,Brasil,Alemán,Youtube,4,0,,
+764,2025-06-01,24,Colombia,Italiano,TikTok,5,0,,
+765,2025-05-03,25,Argentina,Alemán,Youtube,3,1,2.0,954.87
+766,2025-06-01,41,Brasil,Inglés,Instagram,4,0,,
+767,2025-03-02,27,Brasil,Japonés,Organico,2,0,,
+768,2025-06-06,32,Chile,Alemán,TikTok,2,0,,
+769,2025-04-08,44,Brasil,Alemán,Youtube,4,1,16.0,2359.57
+770,2025-05-12,21,Colombia,Francés,Organico,3,1,23.0,1827.01
+771,2025-05-23,22,Colombia,Inglés,Organico,4,1,22.0,1332.4
+772,2025-05-14,29,México,Japonés,Google Ads,3,1,29.0,2475.79
+773,2025-05-21,28,Colombia,Alemán,Instagram,3,1,2.0,2332.17
+774,2025-03-31,23,Brasil,Alemán,Instagram,5,1,1.0,2435.01
+775,2025-01-20,25,Colombia,Japonés,Instagram,2,1,19.0,2329.84
+776,2025-03-31,24,Chile,Inglés,TikTok,2,0,,
+777,2025-06-10,33,México,Francés,Facebook,3,1,1.0,2131.99
+778,2025-05-31,42,Brasil,Alemán,TikTok,2,0,,
+779,2025-06-06,41,México,Francés,Youtube,1,0,,
+780,2025-05-31,17,Brasil,Italiano,Organico,3,1,13.0,1059.57
+781,2025-02-03,20,Chile,Inglés,Organico,2,0,,
+782,2025-04-27,44,México,Italiano,Facebook,1,1,29.0,2489.16
+783,2025-06-03,20,Argentina,Italiano,Youtube,5,1,1.0,1259.83
+784,2025-05-06,21,Brasil,Italiano,Facebook,2,0,,
+785,2025-03-11,34,Argentina,Inglés,Organico,1,1,26.0,1897.06
+786,2025-07-02,23,México,Inglés,TikTok,4,0,,
+787,2025-04-01,31,Argentina,Japonés,Instagram,4,1,11.0,1890.96
+788,2025-05-27,28,Argentina,Francés,Organico,1,0,,
+789,2025-06-16,16,México,Francés,Google Ads,3,1,8.0,1488.46
+790,2025-02-22,37,Chile,Japonés,Instagram,3,1,7.0,2111.44
+791,2025-05-17,35,Argentina,Japonés,Organico,2,1,4.0,2328.39
+792,2025-01-18,32,Argentina,Italiano,TikTok,4,0,,
+793,2025-06-12,22,Chile,Japonés,Facebook,3,0,,
+794,2025-06-14,40,Argentina,Alemán,Instagram,3,1,13.0,1636.33
+795,2025-01-15,28,Argentina,Francés,TikTok,4,1,5.0,1645.23
+796,2025-06-11,19,Argentina,Japonés,Youtube,5,1,20.0,1739.89
+797,2025-05-02,19,Colombia,Alemán,Google Ads,3,0,,
+798,2025-01-30,21,Chile,Alemán,Instagram,1,1,2.0,1445.63
+799,2025-07-10,43,Argentina,Alemán,Facebook,2,0,,
+800,2025-04-11,34,Chile,Alemán,Youtube,3,0,,
+801,2025-05-06,44,Brasil,Italiano,TikTok,3,1,30.0,2140.31
+802,2025-07-06,27,Brasil,Alemán,Google Ads,5,1,2.0,2363.61
+803,2025-02-17,37,Argentina,Italiano,Facebook,1,1,5.0,1313.05
+804,2025-05-28,22,Chile,Italiano,TikTok,2,0,,
+805,2025-03-04,42,Chile,Alemán,TikTok,3,1,28.0,1094.34
+806,2025-05-31,25,Chile,Francés,Instagram,2,1,18.0,1267.94
+807,2025-04-19,41,Colombia,Alemán,Instagram,4,0,,
+808,2025-03-15,34,Brasil,Alemán,Facebook,3,1,15.0,1624.43
+809,2025-07-12,22,Chile,Alemán,Organico,3,1,16.0,1989.93
+810,2025-05-25,18,Chile,Francés,Organico,4,1,13.0,2088.65
+811,2025-03-17,28,Colombia,Inglés,TikTok,5,1,3.0,2330.49
+812,2025-03-03,28,Colombia,Inglés,Instagram,3,0,,
+813,2025-04-01,33,Chile,Italiano,Google Ads,2,1,19.0,2484.6
+814,2025-06-06,43,México,Italiano,Google Ads,1,1,26.0,1916.95
+815,2025-05-05,41,Chile,Francés,TikTok,2,0,,
+816,2025-07-12,35,Chile,Japonés,Instagram,5,1,14.0,1439.2
+817,2025-02-01,43,Colombia,Inglés,Facebook,1,0,,
+818,2025-04-08,23,Colombia,Italiano,Facebook,2,0,,
+819,2025-01-26,44,Chile,Inglés,Facebook,2,1,19.0,1338.62
+820,2025-03-27,24,Chile,Francés,Google Ads,4,1,4.0,1912.85
+821,2025-02-27,22,Chile,Francés,Instagram,5,0,,
+822,2025-04-12,16,Colombia,Japonés,Instagram,4,1,7.0,990.94
+823,2025-04-19,18,Chile,Japonés,Google Ads,1,1,1.0,2354.12
+824,2025-01-24,28,Chile,Francés,Facebook,4,0,,
+825,2025-01-26,43,Argentina,Italiano,Facebook,5,1,16.0,1791.12
+826,2025-05-10,40,México,Inglés,TikTok,3,0,,
+827,2025-05-01,43,Brasil,Alemán,Organico,3,1,15.0,2050.39
+828,2025-04-06,32,México,Japonés,Youtube,1,1,14.0,1565.79
+829,2025-03-25,40,Argentina,Alemán,Organico,3,1,6.0,2045.88
+830,2025-01-22,39,Brasil,Italiano,Instagram,4,0,,
+831,2025-04-26,16,Chile,Japonés,Instagram,1,0,,
+832,2025-02-28,21,Argentina,Alemán,Instagram,5,0,,
+833,2025-04-28,36,Chile,Italiano,Organico,1,1,18.0,1000.95
+834,2025-06-19,21,Colombia,Inglés,Youtube,1,1,30.0,1263.2
+835,2025-05-12,41,Argentina,Italiano,TikTok,2,1,8.0,1399.98
+836,2025-03-16,27,Colombia,Japonés,Organico,2,1,28.0,1678.89
+837,2025-06-29,28,Argentina,Francés,Youtube,1,1,27.0,2224.66
+838,2025-05-11,28,Argentina,Inglés,Facebook,3,1,1.0,1566.02
+839,2025-05-02,44,Colombia,Alemán,Facebook,2,1,17.0,1384.15
+840,2025-03-09,30,Brasil,Japonés,Instagram,5,0,,
+841,2025-05-27,36,México,Francés,Google Ads,4,1,4.0,1169.03
+842,2025-02-17,31,Chile,Italiano,Instagram,2,0,,
+843,2025-07-04,37,Argentina,Francés,Google Ads,1,1,20.0,1870.98
+844,2025-07-05,36,Chile,Japonés,Youtube,3,1,8.0,2470.27
+845,2025-06-22,26,Colombia,Japonés,Facebook,4,1,25.0,1238.06
+846,2025-03-17,43,Chile,Francés,Organico,2,1,20.0,1256.17
+847,2025-02-06,20,Colombia,Italiano,Google Ads,3,1,20.0,1766.55
+848,2025-07-03,19,Chile,Francés,Youtube,3,1,3.0,1411.39
+849,2025-07-03,18,México,Japonés,Facebook,3,1,1.0,1639.98
+850,2025-06-29,34,México,Japonés,Organico,1,0,,
+851,2025-04-13,35,México,Alemán,Google Ads,5,0,,
+852,2025-05-04,40,México,Alemán,Instagram,3,0,,
+853,2025-06-20,33,México,Inglés,Instagram,4,1,13.0,957.2
+854,2025-01-16,30,México,Japonés,Instagram,2,1,23.0,938.78
+855,2025-02-27,24,Colombia,Alemán,Youtube,4,1,25.0,1050.79
+856,2025-02-02,32,Argentina,Francés,Instagram,1,1,7.0,1970.33
+857,2025-01-13,29,Chile,Italiano,TikTok,1,1,6.0,2365.48
+858,2025-03-10,30,México,Francés,Facebook,4,1,21.0,2106.85
+859,2025-05-09,16,Colombia,Italiano,Youtube,5,1,27.0,2484.6
+860,2025-03-21,36,Colombia,Alemán,Organico,1,1,16.0,2325.07
+861,2025-06-27,37,Colombia,Inglés,Instagram,1,1,24.0,924.34
+862,2025-07-12,37,Argentina,Francés,Facebook,4,0,,
+863,2025-05-23,18,Chile,Francés,Google Ads,1,0,,
+864,2025-02-16,31,Argentina,Francés,Instagram,5,0,,
+865,2025-04-13,38,Brasil,Italiano,Facebook,5,0,,
+866,2025-02-05,40,Colombia,Alemán,TikTok,5,1,15.0,2213.8
+867,2025-02-02,26,Brasil,Francés,Google Ads,2,0,,
+868,2025-01-12,27,México,Francés,TikTok,5,0,,
+869,2025-06-13,25,México,Inglés,Organico,5,1,24.0,2239.73
+870,2025-02-24,31,Argentina,Inglés,Facebook,2,1,24.0,1861.18
+871,2025-06-28,23,Chile,Alemán,TikTok,3,0,,
+872,2025-01-19,21,Brasil,Alemán,Organico,1,1,28.0,1595.68
+873,2025-06-20,27,Chile,Japonés,Facebook,5,0,,
+874,2025-05-16,39,Argentina,Inglés,Facebook,1,1,18.0,1271.74
+875,2025-05-08,43,México,Japonés,TikTok,4,1,9.0,1604.2
+876,2025-01-13,36,Chile,Italiano,Facebook,1,1,9.0,963.12
+877,2025-01-16,23,Chile,Japonés,Instagram,2,1,4.0,1900.35
+878,2025-01-26,41,México,Francés,Facebook,1,0,,
+879,2025-03-03,43,Brasil,Japonés,Youtube,1,0,,
+880,2025-03-02,19,México,Alemán,Organico,1,1,24.0,1938.55
+881,2025-05-03,41,Chile,Italiano,Facebook,3,1,24.0,1004.32
+882,2025-01-27,23,Brasil,Francés,Youtube,3,0,,
+883,2025-07-11,41,Brasil,Japonés,Facebook,4,1,7.0,950.97
+884,2025-04-06,43,México,Italiano,Facebook,2,1,22.0,2364.05
+885,2025-07-10,33,Chile,Italiano,TikTok,1,1,5.0,1536.15
+886,2025-01-21,43,Argentina,Francés,Instagram,1,0,,
+887,2025-03-13,43,Chile,Japonés,Organico,1,0,,
+888,2025-07-05,20,Colombia,Italiano,Instagram,1,1,29.0,1013.85
+889,2025-03-28,24,Argentina,Italiano,Google Ads,3,1,28.0,2321.1
+890,2025-05-02,19,Brasil,Inglés,TikTok,4,0,,
+891,2025-07-08,42,Argentina,Italiano,TikTok,5,0,,
+892,2025-05-21,37,Brasil,Inglés,Instagram,2,1,24.0,2272.72
+893,2025-06-21,32,Brasil,Japonés,TikTok,1,1,4.0,1668.41
+894,2025-01-18,24,Argentina,Japonés,Instagram,4,0,,
+895,2025-06-11,16,Brasil,Japonés,TikTok,5,1,7.0,1284.36
+896,2025-02-04,36,Brasil,Alemán,Facebook,4,1,6.0,1691.36
+897,2025-03-17,35,Colombia,Japonés,Instagram,3,1,24.0,2172.93
+898,2025-03-05,28,Chile,Italiano,Instagram,5,1,21.0,1312.25
+899,2025-06-08,43,Chile,Francés,Youtube,4,1,22.0,1270.86
+900,2025-02-27,31,Colombia,Inglés,TikTok,3,1,17.0,1109.79
+901,2025-02-23,44,Argentina,Alemán,TikTok,4,0,,
+902,2025-03-19,28,México,Japonés,Instagram,4,1,3.0,1785.65
+903,2025-02-14,29,México,Japonés,Facebook,5,1,7.0,2224.9
+904,2025-05-09,18,México,Francés,Facebook,3,1,19.0,1526.67
+905,2025-02-12,44,Colombia,Francés,Organico,1,0,,
+906,2025-04-28,21,Colombia,Alemán,Facebook,2,0,,
+907,2025-01-17,33,Brasil,Inglés,TikTok,5,1,27.0,953.84
+908,2025-02-20,34,México,Japonés,Youtube,3,0,,
+909,2025-01-21,20,Argentina,Alemán,Instagram,4,1,17.0,1569.51
+910,2025-06-08,30,Argentina,Italiano,Google Ads,3,0,,
+911,2025-06-10,40,México,Italiano,Youtube,2,1,1.0,1612.76
+912,2025-01-17,17,México,Alemán,Google Ads,2,0,,
+913,2025-07-08,25,México,Japonés,Youtube,1,1,8.0,1632.21
+914,2025-03-17,39,Colombia,Alemán,Facebook,1,1,2.0,933.91
+915,2025-01-11,33,Colombia,Japonés,TikTok,2,0,,
+916,2025-05-25,42,Colombia,Francés,Google Ads,5,1,9.0,1721.03
+917,2025-07-08,28,Chile,Alemán,Youtube,5,1,6.0,1579.03
+918,2025-02-17,20,Argentina,Japonés,TikTok,4,1,19.0,1003.73
+919,2025-03-20,38,Argentina,Alemán,Google Ads,1,0,,
+920,2025-03-30,39,Brasil,Alemán,Instagram,4,1,18.0,2003.42
+921,2025-02-07,16,Colombia,Japonés,Youtube,1,1,11.0,1902.63
+922,2025-01-14,37,Chile,Japonés,Instagram,2,0,,
+923,2025-03-31,16,Chile,Inglés,Facebook,5,1,8.0,1614.06
+924,2025-03-07,33,Argentina,Alemán,Instagram,5,1,16.0,1652.8
+925,2025-06-21,30,Colombia,Italiano,Instagram,2,0,,
+926,2025-03-13,32,Brasil,Alemán,Organico,4,1,12.0,1300.71
+927,2025-06-24,26,Colombia,Alemán,Youtube,4,1,22.0,1924.08
+928,2025-02-11,36,México,Japonés,Facebook,3,1,4.0,1136.04
+929,2025-06-04,41,Colombia,Alemán,Instagram,1,0,,
+930,2025-02-28,40,México,Alemán,TikTok,4,1,15.0,2299.52
+931,2025-04-08,37,México,Italiano,Google Ads,2,0,,
+932,2025-06-12,42,Brasil,Japonés,Instagram,4,0,,
+933,2025-01-22,42,Argentina,Alemán,Facebook,5,1,25.0,1117.97
+934,2025-07-05,32,Colombia,Francés,Instagram,1,0,,
+935,2025-06-17,28,México,Inglés,Google Ads,3,1,18.0,934.64
+936,2025-07-06,16,Colombia,Italiano,Facebook,1,1,1.0,929.71
+937,2025-05-22,17,Argentina,Alemán,Youtube,5,0,,
+938,2025-02-27,24,Argentina,Francés,Facebook,5,0,,
+939,2025-03-16,18,Chile,Alemán,Youtube,5,1,8.0,1037.2
+940,2025-07-08,16,Argentina,Alemán,Facebook,5,1,21.0,2386.85
+941,2025-02-19,36,Brasil,Japonés,Google Ads,2,1,21.0,2477.29
+942,2025-05-28,31,México,Japonés,Google Ads,3,1,27.0,1222.34
+943,2025-04-03,38,Chile,Japonés,Facebook,5,1,19.0,2046.49
+944,2025-06-22,21,Brasil,Francés,Instagram,5,1,11.0,1175.36
+945,2025-04-02,43,Colombia,Alemán,Google Ads,4,0,,
+946,2025-05-27,32,México,Inglés,Youtube,3,1,20.0,2261.78
+947,2025-05-15,20,Argentina,Italiano,Youtube,1,1,16.0,1155.41
+948,2025-06-23,20,México,Japonés,TikTok,3,0,,
+949,2025-07-09,21,Colombia,Japonés,Organico,3,0,,
+950,2025-03-14,18,Chile,Alemán,Organico,3,1,9.0,2056.64
+951,2025-07-04,36,Chile,Alemán,Organico,5,1,16.0,1167.51
+952,2025-02-02,38,Chile,Francés,Youtube,5,1,24.0,1664.96
+953,2025-06-15,20,Argentina,Francés,TikTok,2,1,20.0,2461.57
+954,2025-06-05,36,Brasil,Japonés,Organico,1,1,6.0,1989.49
+955,2025-03-10,20,Brasil,Alemán,Organico,4,0,,
+956,2025-03-04,25,México,Inglés,Facebook,3,1,7.0,1812.62
+957,2025-03-15,25,Argentina,Italiano,Facebook,1,1,13.0,2462.38
+958,2025-01-19,34,Chile,Alemán,Facebook,1,1,29.0,1896.03
+959,2025-04-23,32,Chile,Alemán,Instagram,2,1,5.0,1166.1
+960,2025-02-16,36,Colombia,Francés,Organico,4,1,29.0,1045.99
+961,2025-01-20,29,Colombia,Italiano,Instagram,3,0,,
+962,2025-04-03,24,Chile,Japonés,TikTok,4,1,23.0,1352.72
+963,2025-04-13,29,Chile,Alemán,Youtube,2,1,5.0,2444.05
+964,2025-04-15,16,Argentina,Japonés,Organico,5,1,13.0,2288.74
+965,2025-04-03,34,Brasil,Alemán,Youtube,1,0,,
+966,2025-06-28,28,Colombia,Japonés,Facebook,3,1,21.0,1772.97
+967,2025-03-05,28,Brasil,Italiano,Organico,5,1,9.0,1975.38
+968,2025-02-11,19,Argentina,Francés,Google Ads,2,0,,
+969,2025-02-14,16,Chile,Italiano,Instagram,4,1,18.0,1209.98
+970,2025-02-15,32,Brasil,Inglés,Instagram,1,1,12.0,1507.41
+971,2025-03-21,23,Chile,Francés,Organico,3,1,21.0,1428.96
+972,2025-01-14,17,Chile,Italiano,Facebook,5,1,27.0,1936.27
+973,2025-02-06,43,México,Inglés,Instagram,5,1,3.0,2179.33
+974,2025-04-20,23,Brasil,Alemán,Facebook,1,0,,
+975,2025-06-04,22,Brasil,Alemán,TikTok,4,1,13.0,1034.15
+976,2025-06-26,41,Chile,Japonés,Youtube,2,1,29.0,1432.28
+977,2025-05-18,41,Argentina,Francés,Google Ads,4,1,1.0,927.07
+978,2025-02-03,17,México,Alemán,Youtube,4,1,7.0,1773.76
+979,2025-01-14,37,Chile,Francés,Youtube,4,1,29.0,1709.66
+980,2025-05-26,37,Colombia,Alemán,TikTok,1,0,,
+981,2025-05-05,18,Colombia,Japonés,Instagram,1,1,11.0,1409.08
+982,2025-01-12,42,México,Italiano,Google Ads,2,0,,
+983,2025-03-19,33,Argentina,Japonés,Instagram,4,1,6.0,1715.89
+984,2025-03-04,27,Chile,Inglés,Organico,1,1,9.0,1156.12
+985,2025-07-06,16,Brasil,Alemán,Youtube,2,1,5.0,1058.77
+986,2025-06-12,37,México,Inglés,Organico,2,1,9.0,931.84
+987,2025-03-06,27,Argentina,Inglés,Facebook,4,1,18.0,1415.91
+988,2025-04-15,20,Brasil,Francés,Youtube,3,1,24.0,964.78
+989,2025-05-01,42,Colombia,Alemán,Instagram,4,0,,
+990,2025-04-18,40,Colombia,Inglés,Youtube,3,1,10.0,2375.9
+991,2025-02-09,32,Brasil,Italiano,Facebook,2,1,9.0,918.82
+992,2025-01-21,31,México,Inglés,TikTok,1,1,24.0,2331.24
+993,2025-04-10,30,Colombia,Italiano,Organico,5,1,14.0,2297.41
+994,2025-01-12,38,Chile,Francés,Organico,2,1,11.0,1333.7
+995,2025-07-11,30,Brasil,Inglés,Instagram,1,1,13.0,1988.18
+996,2025-05-25,20,Brasil,Japonés,Youtube,2,1,1.0,2041.53
+997,2025-04-10,36,Colombia,Francés,Instagram,4,0,,
+998,2025-05-01,29,México,Italiano,TikTok,3,0,,
+999,2025-06-09,17,Chile,Francés,Youtube,2,1,11.0,2216.94
+1000,2025-06-28,26,México,Inglés,Youtube,1,1,3.0,2426.99
+1001,2025-01-30,34,Argentina,Alemán,Instagram,4,0,,
+1002,2025-06-21,22,Argentina,Alemán,Instagram,5,1,5.0,1536.72
+1003,2025-04-17,21,Colombia,Italiano,Facebook,4,1,26.0,1476.51
+1004,2025-02-06,43,Colombia,Italiano,TikTok,3,1,30.0,1514.71
+1005,2025-03-09,17,Colombia,Alemán,Facebook,4,1,10.0,2146.55
+1006,2025-06-02,21,Argentina,Italiano,Organico,5,1,26.0,1041.81
+1007,2025-02-04,33,México,Francés,Youtube,1,1,27.0,965.95
+1008,2025-01-22,17,México,Japonés,Instagram,2,1,27.0,1897.99
+1009,2025-03-03,33,Colombia,Japonés,Youtube,3,1,10.0,1865.96
+1010,2025-01-31,30,Chile,Francés,Youtube,5,0,,
+1011,2025-06-30,42,México,Japonés,Google Ads,3,1,22.0,1588.68
+1012,2025-02-02,34,Argentina,Inglés,Organico,4,1,26.0,2495.23
+1013,2025-06-16,17,Brasil,Francés,Google Ads,3,1,23.0,2380.85
+1014,2025-04-24,35,Brasil,Italiano,Youtube,5,0,,
+1015,2025-06-26,40,Brasil,Francés,Instagram,2,0,,
+1016,2025-05-12,21,Chile,Alemán,Youtube,2,1,20.0,1967.54
+1017,2025-03-19,16,Colombia,Italiano,Organico,3,1,1.0,1073.0
+1018,2025-01-14,39,Argentina,Alemán,Google Ads,1,0,,
+1019,2025-06-20,30,Chile,Italiano,Instagram,3,0,,
+1020,2025-06-17,43,Argentina,Japonés,Youtube,4,1,5.0,1162.45
+1021,2025-01-17,38,Argentina,Francés,TikTok,2,1,20.0,1890.55
+1022,2025-03-21,25,Colombia,Inglés,Organico,2,1,22.0,994.94
+1023,2025-04-21,34,Brasil,Italiano,Organico,2,0,,
+1024,2025-05-17,32,Colombia,Italiano,TikTok,1,1,6.0,2312.99
+1025,2025-03-15,20,Chile,Alemán,Youtube,1,1,12.0,1466.43
+1026,2025-05-06,44,Chile,Japonés,Organico,5,0,,
+1027,2025-02-07,19,Chile,Alemán,Instagram,3,0,,
+1028,2025-03-21,25,Colombia,Alemán,Youtube,3,0,,
+1029,2025-07-02,39,Argentina,Japonés,Youtube,4,0,,
+1030,2025-03-27,32,Argentina,Inglés,Google Ads,2,1,21.0,2465.23
+1031,2025-06-24,25,México,Alemán,Organico,1,1,4.0,1770.69
+1032,2025-02-27,32,Chile,Alemán,Organico,4,1,28.0,972.78
+1033,2025-03-19,43,Argentina,Italiano,TikTok,4,0,,
+1034,2025-02-28,35,México,Japonés,Google Ads,1,1,7.0,2081.57
+1035,2025-03-04,39,Argentina,Francés,Google Ads,3,0,,
+1036,2025-04-03,20,Chile,Inglés,Organico,2,1,11.0,2213.0
+1037,2025-02-04,17,Brasil,Inglés,Youtube,3,0,,
+1038,2025-06-26,21,Chile,Japonés,Google Ads,4,1,3.0,1488.78
+1039,2025-07-06,36,Colombia,Italiano,TikTok,2,1,26.0,1313.73
+1040,2025-05-05,17,Argentina,Italiano,Google Ads,5,0,,
+1041,2025-01-19,28,Argentina,Japonés,TikTok,4,1,14.0,905.72
+1042,2025-05-25,26,Colombia,Italiano,Google Ads,3,0,,
+1043,2025-06-23,26,Colombia,Inglés,TikTok,3,1,19.0,1277.1
+1044,2025-03-05,31,Brasil,Inglés,Google Ads,3,0,,
+1045,2025-02-25,26,Argentina,Francés,Google Ads,1,1,13.0,1395.17
+1046,2025-03-08,34,Argentina,Japonés,Instagram,4,1,12.0,1376.07
+1047,2025-06-13,30,Brasil,Alemán,TikTok,2,0,,
+1048,2025-03-30,40,México,Alemán,TikTok,3,1,17.0,2425.5
+1049,2025-03-21,38,Brasil,Francés,TikTok,3,1,17.0,1522.99
+1050,2025-02-01,38,Chile,Francés,Facebook,1,1,8.0,1751.38
+1051,2025-02-06,31,Argentina,Italiano,Google Ads,2,1,2.0,1787.51
+1052,2025-06-18,26,Colombia,Francés,TikTok,4,1,21.0,2028.95
+1053,2025-06-06,37,Chile,Francés,Organico,5,0,,
+1054,2025-07-12,31,Argentina,Alemán,Facebook,1,1,23.0,1576.41
+1055,2025-07-11,23,Brasil,Italiano,Instagram,4,1,21.0,1305.19
+1056,2025-06-17,19,Chile,Francés,TikTok,5,1,14.0,1575.97
+1057,2025-01-21,23,Argentina,Francés,TikTok,3,1,6.0,1219.57
+1058,2025-05-20,19,México,Italiano,Facebook,3,1,7.0,995.4
+1059,2025-01-28,39,México,Japonés,Google Ads,2,0,,
+1060,2025-07-12,40,Colombia,Italiano,Organico,5,0,,
+1061,2025-06-30,18,Argentina,Alemán,Instagram,3,1,1.0,1272.37
+1062,2025-04-04,18,México,Japonés,TikTok,3,1,15.0,1781.19
+1063,2025-01-26,42,Brasil,Inglés,Google Ads,2,0,,
+1064,2025-06-11,44,Argentina,Italiano,Organico,4,1,18.0,2039.3
+1065,2025-05-18,33,Brasil,Alemán,Organico,3,1,26.0,1466.08
+1066,2025-01-11,44,Brasil,Japonés,Instagram,1,1,30.0,2010.39
+1067,2025-01-24,41,México,Italiano,Youtube,1,1,15.0,1135.14
+1068,2025-06-05,34,Argentina,Francés,Organico,4,0,,
+1069,2025-05-28,34,Chile,Italiano,Youtube,5,0,,
+1070,2025-02-11,36,México,Inglés,Organico,2,1,25.0,1300.09
+1071,2025-02-07,20,México,Italiano,Instagram,1,1,6.0,2148.83
+1072,2025-04-05,33,Argentina,Japonés,Facebook,1,0,,
+1073,2025-02-10,43,Argentina,Japonés,Instagram,4,0,,
+1074,2025-03-10,25,Brasil,Italiano,Instagram,5,1,23.0,2274.1
+1075,2025-07-10,44,Argentina,Japonés,Facebook,5,1,6.0,2083.21
+1076,2025-05-29,37,Brasil,Francés,Facebook,4,1,9.0,1127.3
+1077,2025-01-19,36,México,Italiano,Google Ads,1,0,,
+1078,2025-06-09,21,Colombia,Francés,Organico,2,0,,
+1079,2025-06-01,16,Chile,Francés,Google Ads,1,1,26.0,2227.24
+1080,2025-01-30,20,México,Alemán,Facebook,5,0,,
+1081,2025-04-17,24,Argentina,Italiano,Youtube,1,1,17.0,1595.37
+1082,2025-04-22,27,Chile,Japonés,Youtube,2,1,24.0,1263.44
+1083,2025-04-20,41,Colombia,Francés,Instagram,3,1,8.0,1733.59
+1084,2025-01-15,29,Colombia,Alemán,TikTok,1,1,2.0,1750.18
+1085,2025-04-18,17,Brasil,Italiano,Instagram,4,1,1.0,2002.77
+1086,2025-05-19,32,Chile,Italiano,Instagram,3,1,27.0,2124.25
+1087,2025-07-05,29,Brasil,Inglés,TikTok,4,1,25.0,1596.81
+1088,2025-01-12,41,México,Inglés,Organico,4,1,3.0,1896.2
+1089,2025-05-10,28,Chile,Francés,Facebook,4,1,22.0,1503.12
+1090,2025-05-15,42,México,Inglés,Youtube,1,1,6.0,1150.73
+1091,2025-07-12,24,Brasil,Francés,Instagram,5,1,7.0,2308.21
+1092,2025-03-10,41,Chile,Japonés,TikTok,3,1,24.0,992.11
+1093,2025-05-20,40,Brasil,Francés,Google Ads,2,1,3.0,2288.33
+1094,2025-02-19,30,Chile,Inglés,Instagram,5,0,,
+1095,2025-06-30,40,Brasil,Japonés,Youtube,1,0,,
+1096,2025-07-05,37,Colombia,Inglés,Facebook,4,0,,
+1097,2025-01-16,30,Brasil,Francés,Instagram,2,1,1.0,1428.61
+1098,2025-05-19,39,Colombia,Alemán,Instagram,3,1,10.0,2209.67
+1099,2025-06-27,26,Brasil,Italiano,Organico,5,0,,
+1100,2025-04-04,31,Chile,Inglés,TikTok,5,1,14.0,1441.26
+1101,2025-05-04,44,Chile,Francés,Google Ads,2,1,16.0,1870.11
+1102,2025-05-02,32,Chile,Japonés,Google Ads,1,1,28.0,2452.96
+1103,2025-03-15,41,Argentina,Inglés,Facebook,3,0,,
+1104,2025-04-28,19,México,Inglés,Youtube,2,1,6.0,1705.17
+1105,2025-02-02,16,Chile,Italiano,Facebook,4,0,,
+1106,2025-03-05,23,Colombia,Francés,Instagram,3,0,,
+1107,2025-02-04,32,Chile,Alemán,Instagram,5,1,15.0,1109.94
+1108,2025-05-02,18,Argentina,Japonés,Google Ads,2,0,,
+1109,2025-04-01,44,Colombia,Francés,Youtube,5,1,11.0,1689.6
+1110,2025-06-26,35,Argentina,Japonés,TikTok,5,0,,
+1111,2025-05-09,30,Colombia,Inglés,Youtube,5,1,14.0,984.84
+1112,2025-07-06,30,Brasil,Italiano,Instagram,1,0,,
+1113,2025-01-22,39,México,Italiano,TikTok,5,1,4.0,2202.43
+1114,2025-05-06,37,México,Alemán,Youtube,4,0,,
+1115,2025-06-09,29,Argentina,Italiano,Youtube,4,1,12.0,979.4
+1116,2025-05-06,41,México,Inglés,TikTok,3,1,3.0,2032.84
+1117,2025-06-02,43,Argentina,Alemán,Instagram,5,0,,
+1118,2025-06-25,38,Argentina,Francés,Youtube,5,0,,
+1119,2025-07-02,29,Argentina,Italiano,TikTok,2,1,16.0,1595.08
+1120,2025-02-01,39,México,Alemán,Organico,1,1,11.0,2329.51
+1121,2025-05-02,17,Argentina,Inglés,Organico,3,1,3.0,2220.34
+1122,2025-05-09,28,México,Japonés,Instagram,5,0,,
+1123,2025-07-11,41,Argentina,Japonés,TikTok,2,0,,
+1124,2025-03-16,29,Chile,Inglés,Organico,1,0,,
+1125,2025-06-29,42,Argentina,Inglés,TikTok,3,1,21.0,2460.97
+1126,2025-04-11,39,Colombia,Japonés,Youtube,3,1,28.0,1810.57
+1127,2025-01-12,34,Argentina,Alemán,Instagram,5,1,23.0,2318.2
+1128,2025-03-17,22,Brasil,Japonés,Organico,3,0,,
+1129,2025-03-11,18,Argentina,Inglés,Youtube,2,1,9.0,2194.95
+1130,2025-05-31,30,Colombia,Italiano,Facebook,3,0,,
+1131,2025-06-28,38,Colombia,Francés,Facebook,4,1,21.0,1772.58
+1132,2025-05-29,29,México,Italiano,Instagram,2,1,20.0,2256.0
+1133,2025-06-09,26,Chile,Italiano,Organico,1,1,19.0,1708.53
+1134,2025-05-15,30,Argentina,Inglés,Organico,1,1,24.0,1577.32
+1135,2025-03-14,43,México,Japonés,Organico,5,1,24.0,1686.9
+1136,2025-04-22,28,Chile,Alemán,TikTok,5,1,1.0,2450.8
+1137,2025-07-01,33,Argentina,Italiano,Youtube,4,1,25.0,1154.16
+1138,2025-05-15,41,Brasil,Japonés,Organico,1,0,,
+1139,2025-04-01,21,Argentina,Alemán,Youtube,1,1,27.0,1932.02
+1140,2025-07-04,18,Colombia,Italiano,Instagram,1,1,11.0,1144.98
+1141,2025-03-29,34,Colombia,Alemán,Organico,1,1,23.0,1808.55
+1142,2025-03-23,30,Brasil,Japonés,Instagram,3,1,11.0,1876.29
+1143,2025-01-13,40,México,Francés,Organico,2,0,,
+1144,2025-06-19,38,Chile,Japonés,Facebook,2,1,15.0,2283.99
+1145,2025-02-01,20,Argentina,Inglés,Google Ads,4,0,,
+1146,2025-03-11,43,Colombia,Alemán,Instagram,3,1,7.0,2156.32
+1147,2025-05-16,25,México,Francés,Organico,1,1,13.0,1015.88
+1148,2025-02-27,22,Brasil,Alemán,Google Ads,1,1,4.0,2400.78
+1149,2025-04-21,40,Colombia,Alemán,Instagram,5,1,4.0,1786.14
+1150,2025-04-03,32,Brasil,Italiano,TikTok,5,1,28.0,1031.57
+1151,2025-02-20,22,Argentina,Inglés,Organico,4,0,,
+1152,2025-07-05,37,Chile,Alemán,TikTok,1,1,15.0,1928.4
+1153,2025-01-30,41,Colombia,Japonés,Facebook,4,1,6.0,1199.86
+1154,2025-04-02,27,Colombia,Japonés,Organico,3,1,6.0,1667.63
+1155,2025-05-06,40,Argentina,Italiano,Facebook,2,1,10.0,1423.8
+1156,2025-05-07,32,México,Inglés,Google Ads,1,1,9.0,1368.65
+1157,2025-07-02,28,Chile,Inglés,Instagram,3,1,29.0,1417.78
+1158,2025-04-10,35,Colombia,Japonés,Youtube,1,1,11.0,2255.08
+1159,2025-01-29,40,Chile,Francés,Facebook,5,1,4.0,2240.37
+1160,2025-01-26,19,Colombia,Italiano,Youtube,4,0,,
+1161,2025-07-06,25,Chile,Italiano,Youtube,5,0,,
+1162,2025-04-08,18,Brasil,Japonés,Instagram,2,1,4.0,2323.11
+1163,2025-04-21,24,Colombia,Japonés,Google Ads,5,1,16.0,1926.84
+1164,2025-05-29,28,Chile,Francés,Instagram,1,0,,
+1165,2025-02-12,33,México,Francés,Organico,5,1,11.0,2483.97
+1166,2025-04-29,30,Brasil,Inglés,Facebook,1,1,22.0,1481.1
+1167,2025-01-30,19,Brasil,Italiano,Youtube,2,1,24.0,1521.85
+1168,2025-04-26,30,México,Italiano,Instagram,5,1,26.0,1629.51
+1169,2025-01-13,37,Chile,Japonés,Instagram,4,1,7.0,2216.4
+1170,2025-04-08,17,Argentina,Inglés,Instagram,4,0,,
+1171,2025-05-23,30,México,Italiano,Facebook,4,0,,
+1172,2025-05-18,23,Chile,Inglés,Google Ads,5,0,,
+1173,2025-05-12,23,México,Inglés,Instagram,5,0,,
+1174,2025-02-25,32,México,Japonés,Facebook,5,1,26.0,2115.3
+1175,2025-07-03,27,Colombia,Inglés,Youtube,1,1,6.0,2456.57
+1176,2025-07-08,34,Chile,Francés,Organico,2,0,,
+1177,2025-06-03,25,Argentina,Francés,TikTok,4,0,,
+1178,2025-06-23,24,Colombia,Alemán,Facebook,1,1,8.0,1324.25
+1179,2025-04-07,20,México,Japonés,TikTok,4,0,,
+1180,2025-04-19,21,México,Alemán,Instagram,1,1,7.0,1530.81
+1181,2025-03-14,35,México,Francés,Instagram,5,1,24.0,2412.06
+1182,2025-03-02,41,Chile,Alemán,Facebook,4,1,15.0,2490.04
+1183,2025-05-16,17,Chile,Japonés,TikTok,5,1,18.0,1860.29
+1184,2025-03-23,42,Colombia,Japonés,Instagram,4,1,19.0,2235.95
+1185,2025-03-18,39,Argentina,Inglés,Youtube,3,1,25.0,1423.6
+1186,2025-06-04,42,Colombia,Italiano,Google Ads,1,1,10.0,1634.65
+1187,2025-02-25,28,Brasil,Inglés,Google Ads,3,1,13.0,1131.76
+1188,2025-05-18,21,México,Japonés,Instagram,1,1,6.0,932.38
+1189,2025-02-07,20,México,Francés,TikTok,2,0,,
+1190,2025-04-21,40,México,Francés,Organico,4,1,9.0,1579.41
+1191,2025-06-18,16,Colombia,Inglés,Instagram,2,1,5.0,1740.4
+1192,2025-04-28,36,Colombia,Japonés,Organico,2,1,9.0,926.89
+1193,2025-02-05,37,México,Francés,Organico,1,1,8.0,1158.74
+1194,2025-03-18,36,Colombia,Japonés,TikTok,3,0,,
+1195,2025-05-15,21,Chile,Francés,Organico,5,1,23.0,2407.43
+1196,2025-03-13,21,Chile,Japonés,Youtube,1,0,,
+1197,2025-03-06,38,Colombia,Alemán,TikTok,5,1,8.0,1476.85
+1198,2025-02-12,31,México,Japonés,Instagram,2,1,7.0,983.34
+1199,2025-02-03,19,Colombia,Japonés,Youtube,5,1,14.0,1815.36
+1200,2025-04-13,26,Colombia,Inglés,Facebook,3,1,15.0,2244.89
+1201,2025-02-07,39,Colombia,Alemán,Google Ads,1,1,25.0,1111.54
+1202,2025-05-12,38,Brasil,Italiano,Instagram,3,1,19.0,1638.83
+1203,2025-06-18,24,Chile,Inglés,Instagram,3,1,26.0,1371.44
+1204,2025-01-23,38,Argentina,Italiano,Instagram,1,1,28.0,1697.97
+1205,2025-04-28,18,Argentina,Francés,Youtube,3,0,,
+1206,2025-05-27,34,Brasil,Italiano,Facebook,4,1,16.0,1468.7
+1207,2025-03-08,23,Colombia,Japonés,TikTok,4,1,19.0,2096.38
+1208,2025-07-05,20,Brasil,Italiano,Facebook,4,1,7.0,2131.18
+1209,2025-05-06,19,Brasil,Inglés,Youtube,5,1,11.0,1031.75
+1210,2025-04-22,39,México,Inglés,Instagram,3,1,17.0,2258.0
+1211,2025-01-13,21,Chile,Italiano,Google Ads,1,0,,
+1212,2025-06-14,17,Argentina,Inglés,Instagram,1,0,,
+1213,2025-05-21,35,Colombia,Inglés,TikTok,5,1,26.0,2237.46
+1214,2025-01-16,43,Argentina,Italiano,Organico,1,1,12.0,1904.19
+1215,2025-02-03,26,Argentina,Alemán,Google Ads,4,1,26.0,1125.87
+1216,2025-07-03,19,Chile,Alemán,Instagram,3,1,19.0,914.41
+1217,2025-04-16,30,Argentina,Francés,Google Ads,1,1,20.0,1860.22
+1218,2025-04-15,21,Argentina,Inglés,Organico,1,1,3.0,1879.47
+1219,2025-05-12,37,Brasil,Italiano,Facebook,2,1,15.0,1715.17
+1220,2025-04-22,32,Chile,Inglés,Youtube,2,0,,
+1221,2025-05-07,39,México,Japonés,Instagram,2,1,2.0,1844.19
+1222,2025-02-28,21,Colombia,Inglés,TikTok,3,1,8.0,1862.21
+1223,2025-03-02,34,Argentina,Inglés,Facebook,4,0,,
+1224,2025-03-23,40,Colombia,Alemán,Instagram,4,1,30.0,959.61
+1225,2025-02-01,17,México,Italiano,Facebook,4,0,,
+1226,2025-05-13,30,Colombia,Inglés,TikTok,3,1,19.0,1005.49
+1227,2025-03-10,26,México,Alemán,Instagram,3,0,,
+1228,2025-04-28,23,Brasil,Francés,Organico,2,0,,
+1229,2025-06-19,41,Argentina,Alemán,Organico,1,1,9.0,1408.82
+1230,2025-04-16,34,México,Alemán,TikTok,5,0,,
+1231,2025-04-22,28,Colombia,Alemán,Google Ads,5,1,28.0,2126.49
+1232,2025-05-28,27,Argentina,Inglés,TikTok,1,0,,
+1233,2025-06-23,20,Brasil,Inglés,Google Ads,2,1,21.0,1624.8
+1234,2025-04-07,21,Argentina,Francés,Instagram,1,1,23.0,1923.3
+1235,2025-04-19,41,México,Japonés,Google Ads,1,1,24.0,1305.04
+1236,2025-01-29,37,Brasil,Japonés,Instagram,5,0,,
+1237,2025-05-30,19,Colombia,Japonés,Instagram,2,1,25.0,1789.69
+1238,2025-02-11,34,Brasil,Francés,Youtube,3,0,,
+1239,2025-02-15,35,Brasil,Japonés,Instagram,5,0,,
+1240,2025-01-25,16,Chile,Japonés,Google Ads,3,1,13.0,1607.99
+1241,2025-01-28,35,Brasil,Alemán,Youtube,2,0,,
+1242,2025-03-26,32,Brasil,Inglés,Youtube,1,0,,
+1243,2025-07-04,27,Argentina,Inglés,Instagram,4,1,7.0,1428.18
+1244,2025-06-07,30,Colombia,Alemán,TikTok,4,1,5.0,1892.45
+1245,2025-07-02,16,Argentina,Alemán,TikTok,2,1,12.0,2278.06
+1246,2025-05-08,41,Argentina,Alemán,Organico,4,1,13.0,2029.5
+1247,2025-02-07,29,México,Inglés,Youtube,3,1,8.0,1858.59
+1248,2025-02-07,21,Argentina,Japonés,Instagram,4,1,27.0,2297.7
+1249,2025-06-07,20,Chile,Alemán,TikTok,2,1,11.0,1102.5
+1250,2025-02-18,26,Chile,Francés,Instagram,2,1,30.0,2122.79
+1251,2025-05-14,19,México,Alemán,Instagram,3,1,3.0,1612.73
+1252,2025-05-31,28,Colombia,Italiano,Youtube,4,0,,
+1253,2025-03-09,26,Colombia,Alemán,Organico,4,0,,
+1254,2025-03-17,18,Argentina,Inglés,Youtube,1,1,27.0,2327.38
+1255,2025-03-18,16,Argentina,Alemán,Facebook,5,0,,
+1256,2025-07-06,21,Argentina,Italiano,TikTok,2,0,,
+1257,2025-02-03,33,Colombia,Francés,TikTok,1,0,,
+1258,2025-04-24,39,Brasil,Japonés,TikTok,2,1,21.0,969.0
+1259,2025-02-08,25,Chile,Alemán,Google Ads,1,1,28.0,2114.07
+1260,2025-05-29,20,Brasil,Italiano,Instagram,5,0,,
+1261,2025-03-03,38,Brasil,Italiano,Youtube,1,0,,
+1262,2025-05-28,25,Colombia,Francés,TikTok,2,0,,
+1263,2025-07-07,27,Brasil,Inglés,Facebook,4,0,,
+1264,2025-01-11,17,México,Alemán,TikTok,2,1,15.0,1537.05
+1265,2025-06-12,28,Argentina,Italiano,Organico,3,1,29.0,1854.97
+1266,2025-02-14,23,México,Francés,Instagram,3,1,28.0,1437.26
+1267,2025-01-11,17,Chile,Japonés,Instagram,3,1,9.0,1044.51
+1268,2025-03-13,35,Argentina,Italiano,Youtube,3,0,,
+1269,2025-06-19,16,Brasil,Francés,Google Ads,5,1,25.0,1847.4
+1270,2025-01-25,20,Chile,Inglés,Youtube,4,1,28.0,1067.29
+1271,2025-05-26,24,Argentina,Inglés,TikTok,4,0,,
+1272,2025-02-07,32,Brasil,Italiano,Organico,2,1,11.0,1006.26
+1273,2025-05-06,24,México,Italiano,Facebook,1,0,,
+1274,2025-06-02,26,Argentina,Alemán,Youtube,2,0,,
+1275,2025-05-20,30,Brasil,Francés,Google Ads,2,1,17.0,2127.65
+1276,2025-05-16,39,México,Italiano,Youtube,2,1,1.0,1413.12
+1277,2025-06-17,21,Chile,Alemán,Instagram,2,1,21.0,2284.69
+1278,2025-03-22,38,Chile,Alemán,TikTok,4,1,22.0,1238.02
+1279,2025-07-02,18,Chile,Italiano,TikTok,1,1,23.0,1596.62
+1280,2025-04-07,32,Chile,Inglés,TikTok,2,1,20.0,1648.78
+1281,2025-03-05,20,Colombia,Francés,TikTok,4,0,,
+1282,2025-03-21,43,Argentina,Francés,TikTok,2,1,23.0,1833.42
+1283,2025-06-25,27,Argentina,Inglés,TikTok,3,0,,
+1284,2025-02-18,33,Colombia,Italiano,Facebook,2,1,7.0,1016.88
+1285,2025-04-05,29,Brasil,Francés,Google Ads,2,1,23.0,1067.72
+1286,2025-06-27,36,Brasil,Italiano,TikTok,5,0,,
+1287,2025-05-15,39,Chile,Italiano,Google Ads,3,1,2.0,932.04
+1288,2025-05-18,26,México,Alemán,Organico,1,1,18.0,1088.58
+1289,2025-06-20,24,Brasil,Inglés,TikTok,2,0,,
+1290,2025-02-21,17,México,Italiano,Youtube,1,0,,
+1291,2025-01-11,27,Argentina,Japonés,TikTok,3,0,,
+1292,2025-06-26,18,México,Inglés,Instagram,2,1,3.0,1204.61
+1293,2025-02-28,18,Argentina,Francés,Facebook,5,1,6.0,1733.84
+1294,2025-01-14,16,Colombia,Alemán,Youtube,4,0,,
+1295,2025-04-27,23,Colombia,Francés,Youtube,5,0,,
+1296,2025-02-05,37,Chile,Francés,Instagram,5,1,9.0,2028.18
+1297,2025-04-18,43,Brasil,Inglés,TikTok,4,0,,
+1298,2025-03-01,44,Chile,Francés,Facebook,4,1,9.0,1770.3
+1299,2025-01-12,23,Argentina,Italiano,Youtube,4,1,13.0,2385.64
+1300,2025-05-16,26,Chile,Francés,Facebook,2,1,16.0,1302.47
+1301,2025-03-19,24,México,Alemán,Youtube,1,1,26.0,2252.67
+1302,2025-04-27,20,Argentina,Alemán,TikTok,1,1,6.0,1207.19
+1303,2025-03-15,29,Colombia,Japonés,Organico,4,1,4.0,2349.52
+1304,2025-05-22,43,Brasil,Alemán,Youtube,5,1,14.0,1618.82
+1305,2025-02-28,18,Argentina,Francés,Organico,3,0,,
+1306,2025-01-17,36,Argentina,Alemán,Youtube,4,0,,
+1307,2025-02-21,20,México,Inglés,Google Ads,5,1,28.0,2342.94
+1308,2025-07-04,20,Brasil,Alemán,TikTok,5,0,,
+1309,2025-04-30,34,Colombia,Italiano,Instagram,2,1,16.0,1359.41
+1310,2025-03-16,42,Argentina,Inglés,Organico,2,1,1.0,1506.16
+1311,2025-01-30,29,Argentina,Japonés,Instagram,1,0,,
+1312,2025-04-19,41,México,Italiano,TikTok,1,1,8.0,1655.65
+1313,2025-04-30,19,Chile,Francés,Instagram,3,1,17.0,1984.59
+1314,2025-04-08,40,Colombia,Francés,TikTok,3,1,5.0,1414.78
+1315,2025-06-09,28,Brasil,Francés,Instagram,3,0,,
+1316,2025-04-11,25,Argentina,Italiano,Organico,3,1,17.0,1413.63
+1317,2025-06-10,40,Argentina,Italiano,Google Ads,5,0,,
+1318,2025-03-22,33,Colombia,Italiano,Instagram,5,1,3.0,2184.28
+1319,2025-02-18,23,Chile,Inglés,Organico,1,0,,
+1320,2025-02-25,23,Argentina,Inglés,Youtube,2,0,,
+1321,2025-04-30,22,Colombia,Francés,TikTok,2,0,,
+1322,2025-03-03,23,México,Alemán,Facebook,4,1,7.0,1671.0
+1323,2025-03-12,29,Chile,Francés,Facebook,5,1,4.0,1901.35
+1324,2025-02-09,34,Brasil,Japonés,TikTok,3,0,,
+1325,2025-04-17,44,Argentina,Inglés,Google Ads,3,1,3.0,1923.39
+1326,2025-03-01,21,Colombia,Italiano,Instagram,4,1,9.0,2275.57
+1327,2025-02-06,16,México,Inglés,Google Ads,2,1,27.0,1435.56
+1328,2025-04-14,38,Brasil,Italiano,Facebook,3,0,,
+1329,2025-07-08,30,Colombia,Japonés,Organico,2,1,30.0,1875.31
+1330,2025-05-14,16,Colombia,Japonés,TikTok,4,1,2.0,990.73
+1331,2025-06-01,40,Brasil,Inglés,TikTok,2,1,8.0,1209.92
+1332,2025-04-10,32,México,Italiano,Google Ads,2,1,18.0,2418.15
+1333,2025-02-07,16,México,Japonés,Organico,2,0,,
+1334,2025-06-21,30,Chile,Francés,Google Ads,3,1,1.0,2358.01
+1335,2025-01-29,38,Argentina,Francés,Instagram,1,1,15.0,2377.42
+1336,2025-01-19,17,Brasil,Italiano,Youtube,5,0,,
+1337,2025-07-12,29,Brasil,Inglés,Organico,2,0,,
+1338,2025-03-02,36,Brasil,Japonés,Youtube,2,1,11.0,1938.0
+1339,2025-02-05,23,México,Inglés,Instagram,2,0,,
+1340,2025-03-22,23,Argentina,Francés,Youtube,1,0,,
+1341,2025-05-06,34,Chile,Japonés,Facebook,4,0,,
+1342,2025-02-13,22,Colombia,Inglés,Youtube,3,1,14.0,938.67
+1343,2025-02-28,34,Colombia,Alemán,Instagram,1,1,14.0,2290.01
+1344,2025-03-17,21,Brasil,Italiano,Youtube,2,0,,
+1345,2025-05-29,21,Argentina,Italiano,TikTok,1,0,,
+1346,2025-01-22,18,México,Alemán,Google Ads,1,1,29.0,2325.37
+1347,2025-04-05,22,Argentina,Francés,Facebook,1,1,19.0,1124.1
+1348,2025-05-07,34,Argentina,Japonés,TikTok,4,1,5.0,1850.59
+1349,2025-06-23,23,México,Italiano,TikTok,5,1,28.0,1718.07
+1350,2025-04-30,25,Brasil,Alemán,Instagram,3,1,24.0,1239.49
+1351,2025-02-25,35,Argentina,Alemán,Google Ads,4,1,20.0,1115.24
+1352,2025-06-28,30,Colombia,Francés,Google Ads,4,0,,
+1353,2025-06-06,30,México,Francés,Organico,5,1,25.0,1696.12
+1354,2025-06-01,44,Chile,Inglés,Facebook,4,0,,
+1355,2025-04-28,16,Brasil,Italiano,Instagram,1,1,14.0,1365.19
+1356,2025-04-13,35,México,Inglés,Facebook,1,1,8.0,1816.84
+1357,2025-01-12,22,Chile,Alemán,Organico,2,1,20.0,2439.67
+1358,2025-06-05,42,Chile,Japonés,Youtube,4,1,26.0,1385.39
+1359,2025-06-08,19,Argentina,Japonés,TikTok,2,0,,
+1360,2025-05-26,44,Argentina,Francés,Facebook,3,0,,
+1361,2025-02-24,21,Argentina,Japonés,TikTok,1,1,22.0,1740.32
+1362,2025-05-08,40,México,Japonés,Instagram,3,1,12.0,1739.5
+1363,2025-05-25,16,México,Japonés,Youtube,5,1,14.0,1887.67
+1364,2025-03-10,44,Brasil,Alemán,Instagram,1,0,,
+1365,2025-05-28,20,Argentina,Japonés,Youtube,3,0,,
+1366,2025-03-28,42,Chile,Japonés,Youtube,5,1,15.0,1251.81
+1367,2025-02-09,38,Colombia,Japonés,TikTok,3,0,,
+1368,2025-02-09,16,Brasil,Inglés,Instagram,5,0,,
+1369,2025-03-28,19,México,Alemán,Instagram,5,1,5.0,1991.99
+1370,2025-04-10,37,Brasil,Francés,Facebook,1,1,20.0,2435.1
+1371,2025-05-16,17,Brasil,Inglés,Instagram,2,0,,
+1372,2025-01-16,25,Brasil,Italiano,Facebook,5,0,,
+1373,2025-04-10,20,Brasil,Alemán,Google Ads,5,1,9.0,2391.36
+1374,2025-05-18,42,Colombia,Alemán,Google Ads,1,1,9.0,2123.39
+1375,2025-01-12,25,Argentina,Italiano,Google Ads,2,1,11.0,1814.99
+1376,2025-01-15,16,Chile,Italiano,Organico,4,1,29.0,1676.09
+1377,2025-05-02,37,Brasil,Italiano,Instagram,4,0,,
+1378,2025-02-18,21,Brasil,Francés,Organico,2,1,25.0,2412.19
+1379,2025-02-13,28,Brasil,Japonés,Instagram,3,0,,
+1380,2025-02-13,30,Argentina,Alemán,Facebook,1,0,,
+1381,2025-06-02,19,México,Japonés,Organico,2,1,28.0,1365.27
+1382,2025-07-02,28,México,Japonés,Organico,4,1,22.0,2326.33
+1383,2025-06-13,39,Colombia,Italiano,Organico,5,1,19.0,1634.09
+1384,2025-04-20,35,México,Francés,Youtube,4,0,,
+1385,2025-02-23,39,Brasil,Inglés,Facebook,5,1,27.0,1987.03
+1386,2025-02-28,30,Brasil,Francés,Google Ads,1,1,2.0,1479.67
+1387,2025-06-24,44,Brasil,Japonés,Facebook,5,0,,
+1388,2025-02-17,23,Colombia,Francés,Youtube,2,1,10.0,2251.08
+1389,2025-05-12,20,Brasil,Italiano,Instagram,5,0,,
+1390,2025-02-17,44,México,Inglés,Facebook,3,0,,
+1391,2025-04-20,30,Argentina,Italiano,Organico,2,1,7.0,1694.76
+1392,2025-05-31,19,Argentina,Inglés,Google Ads,1,1,15.0,2395.29
+1393,2025-04-07,27,Chile,Japonés,Google Ads,2,0,,
+1394,2025-05-19,28,México,Inglés,Instagram,3,0,,
+1395,2025-02-23,17,Brasil,Inglés,Facebook,1,1,20.0,1765.51
+1396,2025-05-26,42,Argentina,Inglés,Youtube,4,1,24.0,1613.78
+1397,2025-06-15,34,México,Francés,Instagram,3,1,26.0,2232.05
+1398,2025-06-12,34,Argentina,Francés,Facebook,1,0,,
+1399,2025-04-12,19,Brasil,Japonés,TikTok,5,1,26.0,976.75
+1400,2025-03-13,19,Argentina,Inglés,Google Ads,2,1,21.0,1719.96
+1401,2025-01-28,41,Chile,Alemán,Youtube,1,0,,
+1402,2025-04-28,26,Chile,Japonés,Organico,2,1,16.0,1842.31
+1403,2025-03-18,42,Argentina,Inglés,Youtube,5,1,9.0,1942.38
+1404,2025-06-21,20,México,Inglés,Organico,1,1,10.0,1292.46
+1405,2025-02-17,35,México,Francés,Youtube,4,0,,
+1406,2025-04-08,26,México,Japonés,Google Ads,3,1,9.0,1561.56
+1407,2025-06-05,25,Argentina,Inglés,Organico,1,0,,
+1408,2025-05-25,23,México,Inglés,Facebook,5,0,,
+1409,2025-02-18,21,Brasil,Japonés,Organico,1,1,7.0,2354.22
+1410,2025-04-21,21,Chile,Alemán,Instagram,2,1,27.0,2064.34
+1411,2025-04-22,23,Brasil,Japonés,Facebook,1,1,17.0,1190.41
+1412,2025-07-12,38,México,Japonés,Instagram,4,1,11.0,2097.7
+1413,2025-03-13,30,Brasil,Alemán,Youtube,1,0,,
+1414,2025-03-02,41,México,Japonés,Facebook,3,0,,
+1415,2025-04-25,29,Argentina,Inglés,Youtube,1,1,28.0,2300.06
+1416,2025-02-22,26,Brasil,Japonés,TikTok,2,1,20.0,1807.98
+1417,2025-05-15,27,Argentina,Alemán,Youtube,1,1,8.0,1356.44
+1418,2025-05-04,41,Argentina,Italiano,Youtube,4,0,,
+1419,2025-02-11,28,Colombia,Japonés,Instagram,5,1,25.0,923.79
+1420,2025-06-30,23,México,Francés,Organico,1,1,13.0,1295.76
+1421,2025-01-30,33,Chile,Inglés,TikTok,1,1,22.0,2379.41
+1422,2025-03-11,40,México,Inglés,Youtube,3,1,16.0,1376.56
+1423,2025-04-21,16,Chile,Francés,Youtube,4,1,30.0,1261.76
+1424,2025-03-06,30,México,Francés,TikTok,5,1,13.0,2177.9
+1425,2025-06-19,23,Argentina,Japonés,TikTok,2,1,28.0,2060.66
+1426,2025-03-22,43,Brasil,Francés,Facebook,1,0,,
+1427,2025-02-13,26,Brasil,Italiano,Instagram,5,1,10.0,1105.24
+1428,2025-05-17,27,Colombia,Alemán,TikTok,2,1,27.0,1208.82
+1429,2025-05-04,27,Chile,Francés,TikTok,4,1,7.0,2305.63
+1430,2025-03-09,19,Chile,Francés,Google Ads,4,1,24.0,2448.58
+1431,2025-03-07,31,Chile,Italiano,Organico,5,1,28.0,2091.29
+1432,2025-06-30,19,Argentina,Inglés,TikTok,2,1,14.0,1493.14
+1433,2025-03-30,20,Chile,Inglés,Instagram,4,1,26.0,935.79
+1434,2025-02-26,39,Brasil,Japonés,Organico,5,1,3.0,1165.2
+1435,2025-07-09,20,Argentina,Italiano,Organico,4,1,7.0,1004.01
+1436,2025-02-26,23,México,Alemán,Youtube,4,1,30.0,1842.74
+1437,2025-02-24,25,Chile,Alemán,Youtube,4,0,,
+1438,2025-05-27,32,Chile,Italiano,Youtube,3,1,7.0,1422.11
+1439,2025-06-26,43,México,Alemán,Youtube,2,1,3.0,1959.5
+1440,2025-03-01,41,Chile,Inglés,Google Ads,5,1,8.0,1955.0
+1441,2025-04-26,24,México,Alemán,TikTok,5,1,7.0,1359.54
+1442,2025-06-19,37,Argentina,Alemán,Youtube,2,1,6.0,1118.0
+1443,2025-03-12,34,Brasil,Italiano,Facebook,2,1,25.0,2456.02
+1444,2025-04-18,44,México,Italiano,Youtube,2,0,,
+1445,2025-02-11,29,Colombia,Alemán,TikTok,2,1,14.0,1465.02
+1446,2025-03-18,23,México,Francés,Youtube,1,1,25.0,1212.68
+1447,2025-03-31,24,Chile,Italiano,Google Ads,5,0,,
+1448,2025-03-08,37,Argentina,Japonés,Instagram,1,0,,
+1449,2025-06-17,26,Argentina,Japonés,Instagram,4,1,15.0,1485.23
+1450,2025-06-21,38,México,Inglés,TikTok,4,1,18.0,1986.04
+1451,2025-03-16,16,Brasil,Alemán,Instagram,5,1,1.0,1051.79
+1452,2025-01-31,29,Colombia,Francés,Instagram,4,1,20.0,2320.51
+1453,2025-04-03,20,Argentina,Inglés,Facebook,2,1,27.0,2262.01
+1454,2025-04-21,36,Chile,Alemán,TikTok,1,1,29.0,1495.95
+1455,2025-04-07,41,Chile,Italiano,TikTok,2,0,,
+1456,2025-02-28,29,Brasil,Japonés,Instagram,4,1,8.0,1739.12
+1457,2025-06-18,19,Argentina,Francés,Instagram,1,1,1.0,1914.4
+1458,2025-04-10,37,México,Japonés,Instagram,2,1,9.0,940.02
+1459,2025-06-10,38,Chile,Italiano,Organico,5,0,,
+1460,2025-06-01,40,Brasil,Alemán,Google Ads,2,1,2.0,2110.48
+1461,2025-02-12,16,Argentina,Italiano,Youtube,4,1,11.0,2177.67
+1462,2025-04-30,37,Argentina,Italiano,Google Ads,1,1,25.0,1235.89
+1463,2025-04-08,38,Argentina,Japonés,TikTok,5,1,24.0,1678.25
+1464,2025-05-28,34,Argentina,Francés,Facebook,1,1,19.0,1687.33
+1465,2025-01-13,23,Argentina,Italiano,Youtube,5,1,13.0,1164.64
+1466,2025-03-17,30,Chile,Japonés,Facebook,1,1,20.0,971.16
+1467,2025-06-12,36,Brasil,Francés,Organico,4,1,8.0,1026.61
+1468,2025-07-07,30,Argentina,Alemán,TikTok,5,1,8.0,1827.38
+1469,2025-04-10,24,Colombia,Alemán,Organico,3,0,,
+1470,2025-03-18,36,Colombia,Inglés,TikTok,1,1,12.0,2231.02
+1471,2025-01-26,24,Brasil,Japonés,Facebook,1,1,16.0,1621.72
+1472,2025-07-03,25,México,Francés,Facebook,2,1,25.0,1318.39
+1473,2025-01-31,35,México,Italiano,Facebook,5,1,10.0,1869.91
+1474,2025-05-30,40,México,Alemán,TikTok,3,0,,
+1475,2025-06-08,36,Colombia,Francés,Instagram,4,1,10.0,2059.37
+1476,2025-04-26,41,México,Japonés,Facebook,2,1,16.0,1146.52
+1477,2025-03-06,24,Chile,Inglés,Organico,3,1,30.0,948.97
+1478,2025-06-23,18,Argentina,Alemán,Youtube,5,0,,
+1479,2025-02-26,35,Colombia,Francés,TikTok,3,0,,
+1480,2025-06-10,40,Brasil,Francés,Organico,1,1,29.0,2100.84
+1481,2025-05-11,41,Brasil,Francés,Google Ads,1,1,21.0,972.1
+1482,2025-04-22,26,Argentina,Japonés,Google Ads,2,1,14.0,976.58
+1483,2025-02-07,21,Colombia,Japonés,Youtube,5,1,21.0,2462.93
+1484,2025-06-06,17,México,Japonés,Instagram,5,0,,
+1485,2025-05-17,22,México,Italiano,Facebook,3,1,13.0,1303.52
+1486,2025-04-16,33,Chile,Francés,TikTok,2,1,28.0,1909.25
+1487,2025-02-02,42,Chile,Alemán,Organico,5,0,,
+1488,2025-04-10,17,México,Japonés,Facebook,1,0,,
+1489,2025-03-23,42,Brasil,Japonés,Organico,3,1,1.0,1088.16
+1490,2025-04-04,32,Brasil,Francés,TikTok,4,0,,
+1491,2025-02-25,26,Chile,Japonés,Google Ads,1,1,6.0,1671.92
+1492,2025-01-23,42,Argentina,Italiano,Facebook,2,0,,
+1493,2025-07-06,27,México,Italiano,Youtube,5,0,,
+1494,2025-04-01,42,Chile,Japonés,Instagram,1,1,27.0,2499.42
+1495,2025-04-04,34,Chile,Francés,Youtube,4,0,,
+1496,2025-07-08,37,México,Francés,Instagram,4,0,,
+1497,2025-02-10,39,México,Francés,Organico,2,1,16.0,2017.3
+1498,2025-06-23,40,Brasil,Inglés,Facebook,1,1,5.0,903.49
+1499,2025-03-09,22,Argentina,Japonés,Facebook,3,0,,
+1500,2025-06-02,35,Argentina,Francés,Instagram,1,1,3.0,1242.29
+1501,2025-02-20,21,México,Italiano,Google Ads,4,1,6.0,1968.7
+1502,2025-06-09,36,Colombia,Alemán,TikTok,2,0,,
+1503,2025-07-02,39,Chile,Alemán,Youtube,2,0,,
+1504,2025-05-04,16,Chile,Francés,Organico,3,1,29.0,2098.27
+1505,2025-04-18,32,México,Alemán,Youtube,2,1,13.0,1608.02
+1506,2025-06-16,44,Colombia,Alemán,Youtube,2,1,14.0,2434.47
+1507,2025-02-07,26,Brasil,Inglés,Organico,2,1,29.0,2367.17
+1508,2025-07-12,37,México,Italiano,Organico,2,1,11.0,1477.2
+1509,2025-04-07,41,México,Italiano,Facebook,2,0,,
+1510,2025-03-29,43,Chile,Inglés,Youtube,4,1,22.0,1036.07
+1511,2025-02-02,33,México,Inglés,TikTok,1,1,14.0,1271.63
+1512,2025-05-03,36,México,Alemán,TikTok,5,1,27.0,2045.8
+1513,2025-06-12,32,México,Japonés,Instagram,2,0,,
+1514,2025-04-07,22,Chile,Alemán,Organico,5,1,22.0,1714.53
+1515,2025-04-22,32,Brasil,Inglés,Facebook,5,1,9.0,1442.3
+1516,2025-03-02,35,Brasil,Italiano,TikTok,4,1,5.0,2031.63
+1517,2025-04-25,24,México,Alemán,Google Ads,2,1,1.0,1177.4
+1518,2025-02-10,32,Chile,Japonés,Facebook,5,1,1.0,1974.33
+1519,2025-02-24,35,Brasil,Alemán,Facebook,2,1,22.0,1457.92
+1520,2025-07-05,37,Brasil,Francés,TikTok,3,1,14.0,2018.73
+1521,2025-03-29,37,Brasil,Alemán,Google Ads,3,1,22.0,1461.95
+1522,2025-06-11,43,Chile,Inglés,Instagram,3,1,6.0,1741.1
+1523,2025-03-26,44,Chile,Italiano,TikTok,5,1,11.0,2407.75
+1524,2025-06-01,23,México,Italiano,Google Ads,3,1,7.0,1952.61
+1525,2025-06-01,32,Argentina,Inglés,Facebook,4,1,12.0,1165.59
+1526,2025-03-23,22,Brasil,Francés,Google Ads,4,1,16.0,2142.23
+1527,2025-02-23,16,Argentina,Inglés,Facebook,5,1,2.0,2142.55
+1528,2025-01-11,28,Chile,Alemán,TikTok,2,1,11.0,2112.02
+1529,2025-06-26,38,Chile,Inglés,Organico,1,1,3.0,1309.84
+1530,2025-02-11,34,Chile,Inglés,TikTok,2,1,5.0,2028.99
+1531,2025-04-22,42,Argentina,Francés,Youtube,2,1,11.0,1916.73
+1532,2025-06-22,39,Chile,Alemán,Youtube,2,0,,
+1533,2025-06-11,34,México,Japonés,Youtube,2,0,,
+1534,2025-06-27,44,Chile,Japonés,TikTok,1,1,13.0,2055.6
+1535,2025-04-28,32,Colombia,Italiano,Instagram,3,1,20.0,1966.35
+1536,2025-02-06,28,Argentina,Inglés,TikTok,2,1,4.0,988.35
+1537,2025-03-02,44,Colombia,Italiano,Organico,4,1,4.0,1070.81
+1538,2025-06-22,31,Chile,Francés,Google Ads,5,1,9.0,2015.94
+1539,2025-05-30,23,México,Japonés,TikTok,5,0,,
+1540,2025-03-06,34,Brasil,Inglés,TikTok,4,1,6.0,1711.53
+1541,2025-06-28,33,Chile,Francés,Facebook,2,0,,
+1542,2025-04-07,16,México,Francés,Facebook,1,1,9.0,2379.6
+1543,2025-03-06,29,Argentina,Inglés,Facebook,3,0,,
+1544,2025-06-08,34,Colombia,Francés,TikTok,5,0,,
+1545,2025-04-29,30,Colombia,Inglés,Instagram,3,1,9.0,1070.32
+1546,2025-03-08,33,Colombia,Inglés,Google Ads,1,1,19.0,1266.31
+1547,2025-05-06,17,Argentina,Alemán,Google Ads,5,1,21.0,995.8
+1548,2025-06-26,37,México,Italiano,Organico,3,1,5.0,1308.69
+1549,2025-01-14,43,Argentina,Francés,Instagram,1,1,14.0,2174.65
+1550,2025-02-11,32,Colombia,Francés,Instagram,3,1,9.0,1819.93
+1551,2025-04-21,33,Chile,Alemán,Google Ads,2,1,14.0,1537.14
+1552,2025-01-16,21,Brasil,Alemán,Youtube,1,0,,
+1553,2025-04-24,34,Argentina,Alemán,Facebook,3,1,15.0,1660.39
+1554,2025-05-20,19,Argentina,Japonés,Facebook,2,0,,
+1555,2025-05-11,16,México,Japonés,Google Ads,2,1,2.0,1542.7
+1556,2025-06-07,23,México,Japonés,Instagram,1,0,,
+1557,2025-07-03,44,Argentina,Inglés,Organico,4,1,26.0,1736.32
+1558,2025-06-16,38,Colombia,Francés,Youtube,5,1,5.0,1106.1
+1559,2025-05-31,22,Brasil,Italiano,Google Ads,1,0,,
+1560,2025-03-24,18,México,Inglés,Facebook,2,1,20.0,1111.73
+1561,2025-04-10,25,Colombia,Francés,TikTok,2,0,,
+1562,2025-05-20,25,Chile,Francés,Instagram,1,1,7.0,2322.55
+1563,2025-01-29,34,México,Alemán,TikTok,4,1,2.0,2466.57
+1564,2025-02-09,29,Colombia,Alemán,Organico,5,1,18.0,1689.19
+1565,2025-03-07,17,Colombia,Inglés,Google Ads,3,0,,
+1566,2025-06-13,43,Brasil,Alemán,Facebook,1,1,14.0,1901.37
+1567,2025-06-01,16,Brasil,Francés,Youtube,5,0,,
+1568,2025-01-11,38,Chile,Alemán,TikTok,5,0,,
+1569,2025-04-18,38,Colombia,Japonés,Youtube,2,1,8.0,1618.87
+1570,2025-01-13,43,Colombia,Alemán,Organico,3,1,29.0,1790.88
+1571,2025-07-01,33,Brasil,Francés,Facebook,1,0,,
+1572,2025-03-22,22,México,Inglés,TikTok,2,1,17.0,2121.6
+1573,2025-05-07,44,México,Italiano,Organico,2,1,4.0,2202.51
+1574,2025-06-08,23,Argentina,Alemán,Youtube,4,1,22.0,2419.26
+1575,2025-05-21,16,Brasil,Francés,Youtube,5,1,17.0,1085.63
+1576,2025-06-13,40,Argentina,Italiano,TikTok,1,1,24.0,1710.4
+1577,2025-06-08,38,Brasil,Italiano,Facebook,1,1,28.0,2206.83
+1578,2025-04-09,18,Chile,Japonés,Youtube,1,0,,
+1579,2025-03-03,39,Colombia,Italiano,Google Ads,2,1,18.0,961.9
+1580,2025-04-14,38,Chile,Francés,Organico,4,1,13.0,1933.22
+1581,2025-05-10,42,Brasil,Francés,TikTok,3,0,,
+1582,2025-01-19,44,Colombia,Alemán,Instagram,2,0,,
+1583,2025-02-27,23,México,Alemán,Instagram,3,0,,
+1584,2025-02-01,37,México,Alemán,Facebook,4,1,24.0,1489.79
+1585,2025-06-20,40,Argentina,Italiano,Google Ads,5,0,,
+1586,2025-06-12,30,Brasil,Italiano,Youtube,1,1,26.0,2063.13
+1587,2025-06-22,20,Brasil,Japonés,Instagram,3,1,17.0,2484.43
+1588,2025-03-30,18,México,Alemán,Facebook,2,1,2.0,2356.35
+1589,2025-04-12,34,Chile,Inglés,Organico,3,1,21.0,1296.19
+1590,2025-04-25,16,Colombia,Japonés,Google Ads,5,0,,
+1591,2025-06-24,43,Chile,Inglés,Google Ads,1,1,13.0,1770.02
+1592,2025-06-03,30,Chile,Italiano,Facebook,3,0,,
+1593,2025-06-02,23,México,Japonés,Facebook,5,0,,
+1594,2025-05-18,17,México,Japonés,Youtube,2,1,6.0,2439.19
+1595,2025-06-17,18,México,Francés,Facebook,4,1,13.0,1499.26
+1596,2025-04-27,39,Argentina,Italiano,Youtube,2,1,29.0,1789.34
+1597,2025-01-27,29,Chile,Italiano,Youtube,1,1,6.0,1860.32
+1598,2025-06-22,39,Brasil,Japonés,TikTok,2,1,24.0,1848.78
+1599,2025-02-26,29,Colombia,Italiano,Google Ads,2,0,,
+1600,2025-03-16,26,Argentina,Japonés,Organico,2,1,19.0,988.77
+1601,2025-07-04,31,Brasil,Francés,Google Ads,2,1,4.0,1275.12
+1602,2025-07-10,19,Chile,Japonés,Google Ads,1,0,,
+1603,2025-02-10,35,México,Italiano,TikTok,5,1,13.0,1027.83
+1604,2025-06-26,20,Chile,Italiano,Youtube,3,0,,
+1605,2025-05-30,37,Colombia,Japonés,Youtube,4,1,29.0,1180.32
+1606,2025-02-23,36,Argentina,Japonés,Facebook,3,1,2.0,2235.13
+1607,2025-05-19,29,Argentina,Japonés,TikTok,3,1,22.0,1670.46
+1608,2025-04-15,38,Colombia,Alemán,Facebook,4,1,12.0,1144.62
+1609,2025-04-16,31,Brasil,Italiano,TikTok,1,1,17.0,1691.39
+1610,2025-02-20,33,Brasil,Italiano,Facebook,4,0,,
+1611,2025-02-25,22,Argentina,Alemán,Instagram,1,1,18.0,1104.57
+1612,2025-01-18,25,Argentina,Japonés,Google Ads,3,0,,
+1613,2025-05-01,22,México,Francés,Google Ads,1,1,25.0,2180.58
+1614,2025-01-26,16,Brasil,Japonés,Organico,5,1,15.0,1842.02
+1615,2025-05-15,38,Colombia,Japonés,Youtube,4,1,23.0,2167.47
+1616,2025-01-29,36,Brasil,Alemán,Organico,5,0,,
+1617,2025-05-03,34,México,Italiano,Instagram,3,1,4.0,1874.01
+1618,2025-07-04,31,Argentina,Japonés,Organico,4,1,5.0,1156.6
+1619,2025-02-21,44,Argentina,Italiano,Google Ads,3,0,,
+1620,2025-03-29,34,México,Inglés,Youtube,5,1,23.0,1563.23
+1621,2025-02-17,19,Colombia,Italiano,Instagram,3,0,,
+1622,2025-02-15,44,Argentina,Francés,Google Ads,4,1,5.0,1145.79
+1623,2025-03-26,43,Chile,Francés,Facebook,4,0,,
+1624,2025-04-15,33,Argentina,Japonés,TikTok,3,0,,
+1625,2025-06-11,17,Chile,Italiano,Instagram,4,0,,
+1626,2025-05-03,16,México,Japonés,Youtube,4,1,23.0,909.15
+1627,2025-05-25,30,México,Alemán,Organico,3,1,14.0,2191.04
+1628,2025-03-04,20,Argentina,Francés,Organico,5,0,,
+1629,2025-05-06,35,Brasil,Japonés,Instagram,4,1,25.0,2324.18
+1630,2025-05-30,26,Chile,Alemán,Youtube,4,1,18.0,1891.95
+1631,2025-01-24,25,Colombia,Japonés,Instagram,4,0,,
+1632,2025-04-02,17,Argentina,Italiano,Youtube,4,1,12.0,1070.22
+1633,2025-03-02,18,Colombia,Italiano,Organico,3,1,7.0,1030.38
+1634,2025-04-01,38,Argentina,Italiano,Google Ads,5,1,12.0,1339.85
+1635,2025-03-25,38,Brasil,Italiano,Facebook,5,1,16.0,2453.56
+1636,2025-04-01,27,Brasil,Inglés,Google Ads,1,1,30.0,1419.72
+1637,2025-06-28,35,Brasil,Alemán,Facebook,4,1,12.0,1669.63
+1638,2025-06-12,20,Brasil,Alemán,Organico,4,1,20.0,1243.61
+1639,2025-04-18,20,México,Italiano,Google Ads,1,0,,
+1640,2025-01-13,21,México,Inglés,Google Ads,5,0,,
+1641,2025-06-09,24,Chile,Italiano,Instagram,2,1,3.0,2377.13
+1642,2025-03-31,17,Colombia,Inglés,TikTok,2,1,1.0,1823.32
+1643,2025-04-18,36,Argentina,Italiano,Organico,5,0,,
+1644,2025-05-29,27,Argentina,Francés,Youtube,4,1,19.0,1309.57
+1645,2025-02-13,18,México,Francés,Organico,2,1,20.0,1494.43
+1646,2025-07-01,35,Argentina,Japonés,Youtube,3,1,8.0,1835.4
+1647,2025-05-08,41,México,Italiano,Youtube,3,1,29.0,1207.27
+1648,2025-07-07,37,Chile,Alemán,Facebook,1,0,,
+1649,2025-01-23,27,Colombia,Japonés,Youtube,5,1,21.0,1846.29
+1650,2025-02-28,39,Chile,Francés,Youtube,5,0,,
+1651,2025-04-05,32,Brasil,Italiano,Instagram,2,1,16.0,941.29
+1652,2025-05-13,25,Brasil,Japonés,Google Ads,4,0,,
+1653,2025-03-16,39,Brasil,Italiano,Organico,5,1,13.0,1895.7
+1654,2025-05-13,42,Chile,Francés,Organico,2,1,14.0,1418.03
+1655,2025-05-18,29,Argentina,Japonés,Youtube,2,1,23.0,1412.02
+1656,2025-05-24,38,Colombia,Francés,TikTok,5,1,17.0,2418.67
+1657,2025-05-23,32,Brasil,Inglés,Organico,2,1,11.0,993.01
+1658,2025-02-20,33,Brasil,Francés,Youtube,1,1,3.0,2349.4
+1659,2025-05-21,34,Brasil,Italiano,Facebook,1,1,11.0,2499.48
+1660,2025-04-06,32,Colombia,Alemán,Facebook,5,1,28.0,1316.89
+1661,2025-05-05,29,Brasil,Francés,Facebook,4,1,25.0,1199.44
+1662,2025-03-10,24,Colombia,Alemán,Youtube,1,0,,
+1663,2025-04-04,23,Brasil,Inglés,Instagram,1,0,,
+1664,2025-01-30,17,Chile,Japonés,TikTok,5,0,,
+1665,2025-04-19,28,Chile,Japonés,Youtube,3,0,,
+1666,2025-07-12,40,Colombia,Alemán,Instagram,2,1,25.0,2299.89
+1667,2025-06-23,22,Chile,Japonés,Instagram,1,1,28.0,2381.19
+1668,2025-05-07,24,Colombia,Francés,Organico,3,1,5.0,2023.83
+1669,2025-06-26,37,Chile,Alemán,Youtube,4,0,,
+1670,2025-03-13,37,Chile,Italiano,Youtube,3,0,,
+1671,2025-04-20,26,Colombia,Francés,Instagram,5,1,14.0,2229.66
+1672,2025-02-20,29,Argentina,Francés,Instagram,4,1,2.0,1404.09
+1673,2025-07-03,19,Chile,Francés,Instagram,4,1,19.0,2090.67
+1674,2025-01-14,41,Brasil,Italiano,Organico,3,1,2.0,1466.25
+1675,2025-04-05,41,Argentina,Inglés,Youtube,5,1,30.0,1506.16
+1676,2025-04-13,44,Colombia,Japonés,Instagram,1,1,26.0,2360.54
+1677,2025-02-07,28,Argentina,Alemán,Facebook,3,0,,
+1678,2025-06-17,17,México,Inglés,Youtube,1,1,6.0,1951.99
+1679,2025-01-11,38,México,Alemán,Organico,3,0,,
+1680,2025-03-14,20,Chile,Japonés,Facebook,1,0,,
+1681,2025-01-21,26,Chile,Italiano,Google Ads,3,0,,
+1682,2025-07-07,21,Brasil,Francés,Youtube,4,1,10.0,1124.8
+1683,2025-01-29,33,Argentina,Francés,Google Ads,2,1,17.0,2414.5
+1684,2025-04-18,36,México,Italiano,Instagram,4,1,19.0,1154.01
+1685,2025-07-02,25,Chile,Inglés,Organico,1,1,4.0,2084.24
+1686,2025-03-17,19,Argentina,Inglés,Instagram,5,1,24.0,2330.09
+1687,2025-02-12,24,Chile,Alemán,Organico,4,0,,
+1688,2025-05-14,21,Chile,Italiano,TikTok,2,0,,
+1689,2025-07-04,17,México,Inglés,Instagram,1,0,,
+1690,2025-07-05,32,México,Italiano,Google Ads,4,0,,
+1691,2025-05-04,20,Chile,Japonés,Organico,3,1,27.0,2078.65
+1692,2025-04-17,40,Colombia,Francés,Instagram,5,1,28.0,2026.85
+1693,2025-01-30,21,Chile,Francés,Youtube,1,1,4.0,2008.18
+1694,2025-05-17,41,Chile,Francés,Organico,4,1,9.0,1797.79
+1695,2025-02-03,27,Brasil,Italiano,Organico,1,0,,
+1696,2025-04-27,38,Brasil,Italiano,Instagram,3,1,12.0,1471.02
+1697,2025-02-23,36,Brasil,Alemán,TikTok,2,1,30.0,2003.82
+1698,2025-01-31,25,Colombia,Francés,Instagram,4,1,24.0,960.45
+1699,2025-04-16,37,Colombia,Alemán,Google Ads,1,1,27.0,1814.18
+1700,2025-06-29,36,Chile,Francés,Google Ads,1,1,25.0,1985.43
+1701,2025-03-17,42,Brasil,Alemán,Organico,1,0,,
+1702,2025-07-04,40,Colombia,Alemán,Organico,2,1,5.0,1012.38
+1703,2025-04-20,21,México,Japonés,Instagram,1,1,8.0,2258.75
+1704,2025-06-14,42,Chile,Alemán,Google Ads,5,1,4.0,1854.22
+1705,2025-06-24,23,Argentina,Italiano,Google Ads,5,1,7.0,1475.11
+1706,2025-06-05,17,Chile,Alemán,TikTok,1,1,15.0,2104.71
+1707,2025-06-16,27,Argentina,Francés,Youtube,5,0,,
+1708,2025-03-18,28,Brasil,Alemán,TikTok,4,1,5.0,1311.48
+1709,2025-04-06,40,Argentina,Inglés,Facebook,5,1,6.0,1840.97
+1710,2025-04-27,36,Brasil,Francés,TikTok,1,1,25.0,1120.64
+1711,2025-02-02,22,México,Inglés,Instagram,3,0,,
+1712,2025-02-05,25,Argentina,Francés,Youtube,4,1,10.0,1709.54
+1713,2025-01-19,28,Chile,Italiano,Instagram,2,1,11.0,2417.85
+1714,2025-05-09,32,Brasil,Italiano,Facebook,1,1,11.0,2291.5
+1715,2025-01-22,41,Chile,Italiano,Youtube,2,0,,
+1716,2025-02-27,36,Colombia,Inglés,Organico,3,1,30.0,1981.69
+1717,2025-04-03,43,Brasil,Japonés,Google Ads,2,1,25.0,1047.36
+1718,2025-05-06,41,Argentina,Francés,TikTok,1,1,26.0,1981.19
+1719,2025-06-18,29,Brasil,Italiano,Instagram,1,1,18.0,1532.41
+1720,2025-04-29,17,Chile,Francés,Facebook,3,0,,
+1721,2025-05-27,43,México,Inglés,Google Ads,1,0,,
+1722,2025-03-22,37,Brasil,Japonés,TikTok,3,1,7.0,2299.96
+1723,2025-05-26,26,Argentina,Inglés,Google Ads,3,0,,
+1724,2025-03-12,16,Colombia,Francés,TikTok,1,0,,
+1725,2025-02-05,34,México,Japonés,Organico,5,0,,
+1726,2025-06-08,36,Colombia,Japonés,Youtube,3,1,23.0,1734.92
+1727,2025-05-08,19,Brasil,Inglés,Google Ads,1,1,29.0,2390.03
+1728,2025-05-19,34,Chile,Italiano,Google Ads,5,1,10.0,949.7
+1729,2025-03-19,41,Chile,Francés,Google Ads,3,0,,
+1730,2025-01-15,44,Argentina,Alemán,Youtube,5,1,23.0,2024.45
+1731,2025-02-24,36,Chile,Alemán,Facebook,4,1,4.0,2351.0
+1732,2025-02-02,26,México,Inglés,TikTok,4,1,28.0,2029.94
+1733,2025-01-19,23,Chile,Francés,Organico,5,1,21.0,1806.35
+1734,2025-01-22,26,Argentina,Francés,Google Ads,3,1,1.0,1645.51
+1735,2025-01-23,19,Brasil,Inglés,Youtube,1,0,,
+1736,2025-04-20,32,Brasil,Francés,Facebook,2,1,1.0,2229.8
+1737,2025-07-11,42,Chile,Italiano,TikTok,1,0,,
+1738,2025-02-02,22,Colombia,Inglés,Youtube,2,1,19.0,1682.86
+1739,2025-03-01,23,Brasil,Italiano,Organico,2,1,1.0,903.93
+1740,2025-02-05,18,Chile,Francés,Organico,3,1,13.0,1568.8
+1741,2025-06-06,37,Argentina,Inglés,TikTok,5,1,12.0,2178.03
+1742,2025-01-29,17,Chile,Francés,Google Ads,1,1,28.0,1327.73
+1743,2025-03-14,38,Brasil,Inglés,Organico,5,0,,
+1744,2025-06-28,30,Argentina,Francés,Facebook,4,1,30.0,1307.4
+1745,2025-06-17,39,Chile,Italiano,Youtube,3,0,,
+1746,2025-04-14,37,México,Italiano,Facebook,3,1,20.0,1010.38
+1747,2025-03-01,37,Argentina,Francés,Google Ads,4,1,6.0,1819.09
+1748,2025-07-09,20,México,Inglés,Facebook,1,1,20.0,1314.76
+1749,2025-06-02,39,Colombia,Alemán,Facebook,4,1,29.0,2039.83
+1750,2025-02-21,16,Argentina,Italiano,Instagram,1,1,2.0,1637.83
+1751,2025-06-24,41,México,Italiano,Facebook,2,1,25.0,964.45
+1752,2025-02-09,19,Brasil,Alemán,TikTok,3,1,1.0,2136.39
+1753,2025-04-05,30,Brasil,Francés,Youtube,1,1,8.0,2127.99
+1754,2025-03-25,35,Colombia,Inglés,Instagram,5,1,13.0,1113.41
+1755,2025-02-22,34,Argentina,Francés,Youtube,5,0,,
+1756,2025-05-27,18,Argentina,Japonés,Youtube,3,1,1.0,2285.35
+1757,2025-06-19,35,Argentina,Italiano,Google Ads,4,1,16.0,2481.13
+1758,2025-03-18,26,Colombia,Japonés,Google Ads,4,0,,
+1759,2025-02-13,32,Argentina,Italiano,Instagram,1,1,10.0,1618.95
+1760,2025-04-04,42,Brasil,Italiano,Organico,4,1,1.0,2399.43
+1761,2025-01-22,28,México,Japonés,Google Ads,3,1,5.0,1495.65
+1762,2025-04-11,26,Brasil,Japonés,Google Ads,1,1,17.0,2107.97
+1763,2025-01-25,17,Brasil,Francés,Google Ads,2,0,,
+1764,2025-05-10,24,México,Japonés,Youtube,4,1,17.0,1335.14
+1765,2025-04-05,41,Brasil,Francés,Instagram,4,0,,
+1766,2025-06-10,17,Colombia,Francés,Youtube,1,0,,
+1767,2025-05-15,36,México,Francés,TikTok,5,1,29.0,2200.97
+1768,2025-05-24,24,Brasil,Italiano,Youtube,4,1,5.0,1941.91
+1769,2025-03-13,24,Chile,Italiano,TikTok,3,1,18.0,978.6
+1770,2025-02-08,23,Brasil,Japonés,Facebook,4,1,21.0,1381.29
+1771,2025-05-28,32,Colombia,Italiano,Facebook,2,1,2.0,1751.76
+1772,2025-05-15,16,Argentina,Japonés,TikTok,4,1,21.0,2358.56
+1773,2025-03-19,40,Brasil,Italiano,TikTok,5,1,19.0,2441.68
+1774,2025-02-20,44,Argentina,Inglés,Youtube,4,1,2.0,1380.36
+1775,2025-03-29,26,Chile,Inglés,TikTok,1,0,,
+1776,2025-01-31,23,Brasil,Japonés,Instagram,4,1,20.0,921.23
+1777,2025-03-18,25,México,Italiano,Facebook,5,0,,
+1778,2025-01-28,40,Argentina,Italiano,Facebook,1,0,,
+1779,2025-04-22,22,Chile,Francés,Organico,3,1,19.0,1338.15
+1780,2025-02-18,18,México,Alemán,TikTok,1,0,,
+1781,2025-01-28,18,México,Japonés,Google Ads,2,1,30.0,1247.11
+1782,2025-06-04,33,México,Alemán,Google Ads,1,1,12.0,1149.47
+1783,2025-02-11,20,México,Alemán,TikTok,3,1,15.0,1510.59
+1784,2025-02-17,27,Brasil,Japonés,Instagram,4,1,9.0,1509.42
+1785,2025-07-01,27,Brasil,Italiano,Google Ads,1,1,22.0,1527.25
+1786,2025-05-28,34,Brasil,Japonés,Organico,1,1,8.0,2131.1
+1787,2025-05-07,21,Chile,Alemán,TikTok,1,1,19.0,1620.62
+1788,2025-01-11,17,Chile,Italiano,Instagram,1,1,8.0,2001.8
+1789,2025-05-20,27,Chile,Inglés,Instagram,3,1,7.0,2171.28
+1790,2025-06-29,34,Colombia,Japonés,Youtube,5,1,29.0,1652.95
+1791,2025-02-24,20,Chile,Japonés,Instagram,5,1,15.0,1652.87
+1792,2025-06-17,27,Brasil,Italiano,Google Ads,1,1,19.0,2432.77
+1793,2025-07-02,42,Brasil,Inglés,Google Ads,3,1,14.0,2222.03
+1794,2025-06-01,42,Colombia,Inglés,TikTok,3,1,30.0,995.54
+1795,2025-02-17,32,Colombia,Italiano,TikTok,1,0,,
+1796,2025-03-07,44,Chile,Francés,Instagram,2,1,4.0,1336.08
+1797,2025-01-21,32,Argentina,Japonés,Organico,1,0,,
+1798,2025-05-10,25,Colombia,Japonés,Facebook,2,1,20.0,973.67
+1799,2025-05-30,40,México,Alemán,Youtube,1,0,,
+1800,2025-03-24,38,Brasil,Italiano,Facebook,2,1,23.0,1479.49
+1801,2025-05-21,32,México,Alemán,Instagram,2,1,6.0,1409.88
+1802,2025-02-12,30,Brasil,Alemán,Instagram,1,1,29.0,2162.93
+1803,2025-03-15,27,Brasil,Inglés,Facebook,2,1,3.0,938.58
+1804,2025-04-29,31,Colombia,Japonés,Youtube,4,1,18.0,1949.24
+1805,2025-02-17,39,Colombia,Alemán,Facebook,5,1,16.0,1646.9
+1806,2025-02-18,34,México,Inglés,TikTok,3,0,,
+1807,2025-03-13,23,Brasil,Italiano,Google Ads,2,1,1.0,948.64
+1808,2025-01-23,36,México,Alemán,Organico,2,1,5.0,1577.48
+1809,2025-04-23,32,Argentina,Japonés,TikTok,3,0,,
+1810,2025-02-15,38,México,Alemán,Google Ads,2,1,12.0,2302.57
+1811,2025-03-14,20,Chile,Italiano,Organico,3,0,,
+1812,2025-07-05,37,México,Alemán,Organico,1,1,12.0,1545.22
+1813,2025-01-26,31,Chile,Japonés,Organico,4,0,,
+1814,2025-06-28,21,Chile,Inglés,Instagram,4,1,16.0,2106.09
+1815,2025-01-20,23,Chile,Japonés,Organico,5,0,,
+1816,2025-06-21,40,Argentina,Inglés,Youtube,2,0,,
+1817,2025-04-20,33,México,Francés,Facebook,5,1,5.0,1083.73
+1818,2025-04-24,40,México,Japonés,Youtube,1,1,21.0,1227.68
+1819,2025-04-20,27,Argentina,Japonés,Facebook,4,1,19.0,1934.0
+1820,2025-06-26,30,Brasil,Italiano,TikTok,1,0,,
+1821,2025-04-03,42,Colombia,Alemán,TikTok,1,1,19.0,929.05
+1822,2025-02-17,41,México,Inglés,Facebook,2,1,30.0,1926.56
+1823,2025-05-09,24,Colombia,Inglés,Youtube,1,1,9.0,1538.63
+1824,2025-02-28,28,Argentina,Italiano,Facebook,4,1,26.0,1713.36
+1825,2025-03-31,41,Brasil,Italiano,Organico,5,1,1.0,2141.05
+1826,2025-06-08,30,Brasil,Alemán,Instagram,4,0,,
+1827,2025-06-24,25,Brasil,Alemán,TikTok,2,1,24.0,2087.87
+1828,2025-04-20,31,Argentina,Japonés,Instagram,4,0,,
+1829,2025-04-28,22,Chile,Francés,Organico,3,1,10.0,1986.21
+1830,2025-03-03,32,Chile,Alemán,Organico,5,1,6.0,1511.72
+1831,2025-02-07,38,Colombia,Italiano,TikTok,3,1,21.0,1395.89
+1832,2025-04-03,41,Chile,Alemán,TikTok,3,1,26.0,2001.08
+1833,2025-04-18,36,Chile,Inglés,Organico,2,0,,
+1834,2025-05-10,37,Brasil,Francés,Google Ads,1,0,,
+1835,2025-04-11,41,Brasil,Japonés,Instagram,3,1,10.0,2157.76
+1836,2025-02-09,22,Colombia,Inglés,Instagram,4,1,6.0,2407.16
+1837,2025-04-03,29,México,Inglés,Google Ads,1,1,17.0,1227.13
+1838,2025-06-17,30,Colombia,Francés,Youtube,4,0,,
+1839,2025-07-01,36,Colombia,Japonés,Instagram,4,0,,
+1840,2025-05-13,22,Argentina,Italiano,Facebook,1,0,,
+1841,2025-03-18,24,Argentina,Japonés,Organico,1,1,14.0,932.35
+1842,2025-05-09,34,Colombia,Alemán,Organico,4,1,17.0,1650.85
+1843,2025-03-26,31,Colombia,Inglés,Google Ads,2,1,12.0,922.77
+1844,2025-03-12,23,Colombia,Alemán,Instagram,5,1,7.0,2199.67
+1845,2025-02-28,33,Chile,Italiano,Youtube,5,1,16.0,1875.21
+1846,2025-07-06,42,Argentina,Alemán,Instagram,2,1,12.0,1593.67
+1847,2025-06-15,38,Colombia,Japonés,Organico,1,1,19.0,2231.27
+1848,2025-04-22,44,Brasil,Alemán,TikTok,4,0,,
+1849,2025-02-03,33,Brasil,Italiano,Facebook,5,0,,
+1850,2025-02-21,35,Chile,Italiano,Google Ads,4,1,15.0,1185.57
+1851,2025-02-17,22,Chile,Italiano,TikTok,2,1,15.0,1187.41
+1852,2025-02-12,18,México,Japonés,Youtube,4,1,13.0,2434.61
+1853,2025-06-17,33,México,Italiano,TikTok,2,0,,
+1854,2025-04-28,42,México,Inglés,TikTok,1,0,,
+1855,2025-01-25,25,Chile,Italiano,Youtube,2,0,,
+1856,2025-03-10,22,Chile,Alemán,TikTok,2,0,,
+1857,2025-03-05,32,Chile,Alemán,Google Ads,5,1,4.0,1303.51
+1858,2025-06-19,29,Brasil,Alemán,Organico,4,1,15.0,2343.51
+1859,2025-05-30,39,Chile,Japonés,Instagram,5,1,3.0,2118.89
+1860,2025-03-03,18,Brasil,Alemán,TikTok,3,1,8.0,1460.01
+1861,2025-03-30,27,México,Japonés,Google Ads,2,0,,
+1862,2025-05-24,43,México,Japonés,Instagram,3,1,14.0,998.69
+1863,2025-03-10,28,México,Italiano,Instagram,5,1,21.0,1003.84
+1864,2025-05-12,17,Colombia,Inglés,TikTok,4,1,15.0,1037.56
+1865,2025-03-07,18,Colombia,Italiano,Google Ads,5,0,,
+1866,2025-07-07,20,Argentina,Italiano,Organico,4,1,15.0,1895.98
+1867,2025-05-07,26,Argentina,Japonés,TikTok,4,1,23.0,2409.81
+1868,2025-05-18,23,Argentina,Japonés,Youtube,1,1,10.0,1798.69
+1869,2025-06-16,41,Colombia,Alemán,Instagram,2,1,10.0,1787.22
+1870,2025-06-21,38,Colombia,Alemán,TikTok,5,1,11.0,2463.15
+1871,2025-06-29,38,Argentina,Italiano,Instagram,4,0,,
+1872,2025-05-13,27,Argentina,Francés,Google Ads,5,1,29.0,1179.52
+1873,2025-02-15,22,Chile,Francés,Facebook,5,0,,
+1874,2025-05-05,30,Argentina,Alemán,TikTok,4,1,14.0,2058.08
+1875,2025-04-16,39,Chile,Francés,Organico,3,1,9.0,1914.1
+1876,2025-01-18,32,Brasil,Alemán,TikTok,2,0,,
+1877,2025-01-11,19,Colombia,Japonés,Instagram,2,1,7.0,1834.13
+1878,2025-05-17,44,Argentina,Italiano,Google Ads,1,1,8.0,1421.33
+1879,2025-03-24,37,Colombia,Inglés,Youtube,1,0,,
+1880,2025-04-01,40,Colombia,Italiano,Organico,1,1,19.0,1045.06
+1881,2025-02-08,28,Colombia,Alemán,Google Ads,2,0,,
+1882,2025-05-19,33,Brasil,Alemán,TikTok,3,1,30.0,2370.24
+1883,2025-03-15,16,México,Italiano,Youtube,2,1,23.0,1924.14
+1884,2025-05-14,31,Argentina,Alemán,Google Ads,2,1,26.0,2235.0
+1885,2025-06-02,28,México,Francés,Facebook,2,0,,
+1886,2025-02-07,25,México,Francés,Organico,2,1,16.0,1000.6
+1887,2025-02-12,27,México,Alemán,Instagram,3,0,,
+1888,2025-03-05,17,Colombia,Alemán,Google Ads,1,0,,
+1889,2025-02-21,38,Chile,Francés,Google Ads,5,1,8.0,1105.17
+1890,2025-02-08,18,Colombia,Alemán,Facebook,1,1,6.0,1810.47
+1891,2025-07-08,25,Colombia,Alemán,TikTok,1,1,21.0,1423.35
+1892,2025-05-28,17,México,Italiano,Organico,5,1,18.0,1382.94
+1893,2025-01-14,42,Colombia,Inglés,Organico,2,1,18.0,1263.44
+1894,2025-06-17,38,México,Francés,Instagram,3,1,13.0,2211.17
+1895,2025-03-17,28,Chile,Italiano,Google Ads,3,0,,
+1896,2025-05-10,28,Argentina,Inglés,Youtube,1,0,,
+1897,2025-03-23,33,México,Alemán,Google Ads,5,0,,
+1898,2025-06-16,18,Chile,Alemán,Instagram,4,0,,
+1899,2025-05-30,42,Argentina,Italiano,Google Ads,2,1,1.0,2108.54
+1900,2025-07-06,22,Brasil,Alemán,Facebook,1,0,,
+1901,2025-03-27,29,México,Japonés,Google Ads,3,0,,
+1902,2025-03-31,35,México,Italiano,Google Ads,5,1,14.0,912.94
+1903,2025-04-19,44,Brasil,Inglés,Youtube,5,0,,
+1904,2025-04-11,32,Brasil,Italiano,Facebook,1,1,6.0,2142.62
+1905,2025-05-28,44,México,Francés,Facebook,4,1,25.0,1091.83
+1906,2025-06-27,36,Brasil,Italiano,Google Ads,3,0,,
+1907,2025-06-01,27,Colombia,Alemán,Organico,1,0,,
+1908,2025-05-16,40,Argentina,Alemán,Youtube,4,1,28.0,1514.04
+1909,2025-02-09,31,Argentina,Japonés,Google Ads,5,0,,
+1910,2025-01-23,39,Argentina,Japonés,Google Ads,2,1,21.0,1188.95
+1911,2025-06-06,27,Colombia,Japonés,Instagram,3,1,18.0,1957.81
+1912,2025-03-20,30,Brasil,Inglés,Instagram,3,0,,
+1913,2025-02-08,40,Chile,Japonés,Organico,4,1,21.0,2235.78
+1914,2025-07-07,25,Brasil,Inglés,Youtube,1,0,,
+1915,2025-04-06,40,México,Japonés,TikTok,5,1,13.0,1297.99
+1916,2025-04-04,22,Argentina,Inglés,Instagram,4,1,17.0,983.99
+1917,2025-04-09,35,Brasil,Italiano,TikTok,2,1,18.0,1587.07
+1918,2025-03-14,20,Chile,Italiano,Facebook,2,1,3.0,1005.0
+1919,2025-05-09,16,México,Alemán,Instagram,2,1,18.0,1063.09
+1920,2025-06-22,32,Colombia,Inglés,Instagram,4,0,,
+1921,2025-02-01,18,Colombia,Francés,Youtube,5,1,23.0,2364.28
+1922,2025-07-11,28,Chile,Alemán,Organico,3,0,,
+1923,2025-03-08,29,México,Italiano,TikTok,1,1,8.0,1333.84
+1924,2025-07-09,39,Argentina,Inglés,Instagram,3,1,26.0,2024.2
+1925,2025-02-26,33,Brasil,Japonés,Instagram,5,1,19.0,916.58
+1926,2025-07-09,19,México,Francés,Youtube,3,1,23.0,1604.23
+1927,2025-03-06,33,Colombia,Italiano,Youtube,4,1,10.0,1377.41
+1928,2025-02-25,20,Chile,Alemán,Organico,2,1,1.0,1076.94
+1929,2025-02-22,40,Chile,Inglés,TikTok,5,1,27.0,1793.43
+1930,2025-05-21,31,Brasil,Francés,Facebook,5,1,19.0,1716.35
+1931,2025-06-06,16,Chile,Inglés,Organico,3,1,11.0,1770.08
+1932,2025-03-12,36,Chile,Japonés,Facebook,4,1,3.0,930.91
+1933,2025-05-23,29,México,Alemán,Google Ads,3,1,30.0,2298.8
+1934,2025-06-12,30,Argentina,Inglés,Instagram,3,0,,
+1935,2025-02-21,24,Brasil,Italiano,TikTok,5,1,28.0,1449.37
+1936,2025-05-09,30,México,Alemán,Organico,3,0,,
+1937,2025-01-23,32,Argentina,Italiano,Instagram,2,1,28.0,1199.48
+1938,2025-05-25,40,México,Inglés,TikTok,3,0,,
+1939,2025-06-20,39,México,Alemán,TikTok,2,1,29.0,1407.8
+1940,2025-03-21,19,Chile,Italiano,TikTok,5,0,,
+1941,2025-05-22,27,Argentina,Japonés,Instagram,4,1,21.0,1461.83
+1942,2025-06-29,42,Brasil,Japonés,Organico,2,0,,
+1943,2025-05-23,41,Brasil,Inglés,Youtube,4,0,,
+1944,2025-05-16,20,Argentina,Alemán,Instagram,4,0,,
+1945,2025-01-11,44,Chile,Francés,TikTok,2,1,30.0,1454.4
+1946,2025-03-05,20,Colombia,Alemán,Organico,5,1,6.0,1786.04
+1947,2025-02-23,26,México,Japonés,Google Ads,1,1,15.0,2472.93
+1948,2025-06-03,43,Chile,Italiano,Facebook,4,1,17.0,2342.79
+1949,2025-06-01,21,Argentina,Francés,TikTok,4,0,,
+1950,2025-04-30,22,México,Inglés,Google Ads,5,1,7.0,2341.05
+1951,2025-03-17,39,Brasil,Francés,Youtube,5,1,21.0,939.8
+1952,2025-05-25,29,Colombia,Inglés,TikTok,3,1,27.0,2333.28
+1953,2025-02-27,39,Brasil,Francés,Google Ads,5,1,5.0,954.47
+1954,2025-05-05,26,Argentina,Inglés,TikTok,4,1,8.0,1384.2
+1955,2025-04-11,28,México,Inglés,Instagram,2,0,,
+1956,2025-07-04,17,Argentina,Francés,Organico,1,1,12.0,1441.03
+1957,2025-04-23,40,México,Francés,Google Ads,3,1,30.0,2062.78
+1958,2025-07-12,22,Chile,Inglés,Organico,2,1,23.0,1232.88
+1959,2025-05-29,35,Colombia,Japonés,Instagram,1,1,13.0,1227.15
+1960,2025-04-11,19,Chile,Francés,Instagram,1,1,22.0,2310.47
+1961,2025-03-06,42,Chile,Alemán,Organico,1,0,,
+1962,2025-06-14,23,Argentina,Italiano,Google Ads,2,0,,
+1963,2025-06-26,35,Colombia,Inglés,Organico,3,0,,
+1964,2025-07-10,44,México,Inglés,Organico,3,0,,
+1965,2025-07-08,37,México,Italiano,Facebook,1,1,7.0,1139.83
+1966,2025-07-04,36,Brasil,Japonés,Google Ads,2,0,,
+1967,2025-04-13,34,México,Italiano,Facebook,1,0,,
+1968,2025-05-13,28,Argentina,Francés,TikTok,5,0,,
+1969,2025-06-29,29,Chile,Italiano,Organico,3,1,26.0,2120.9
+1970,2025-07-07,25,Chile,Inglés,TikTok,4,0,,
+1971,2025-02-04,26,Chile,Italiano,Google Ads,1,0,,
+1972,2025-04-16,17,Colombia,Alemán,Organico,5,0,,
+1973,2025-02-18,40,México,Francés,TikTok,3,1,7.0,1082.02
+1974,2025-03-18,41,Argentina,Italiano,Youtube,2,0,,
+1975,2025-07-07,24,Colombia,Inglés,Instagram,3,0,,
+1976,2025-02-15,32,Brasil,Francés,Organico,2,0,,
+1977,2025-04-20,41,Argentina,Inglés,Instagram,2,1,23.0,2286.86
+1978,2025-06-01,18,Argentina,Japonés,Facebook,1,0,,
+1979,2025-01-27,39,Argentina,Alemán,TikTok,1,1,29.0,1350.64
+1980,2025-04-08,21,Chile,Japonés,Facebook,3,1,15.0,1291.38
+1981,2025-06-25,20,Argentina,Alemán,Organico,5,1,7.0,2118.16
+1982,2025-02-07,20,México,Italiano,Instagram,3,0,,
+1983,2025-05-10,37,Argentina,Francés,Instagram,4,1,14.0,1135.78
+1984,2025-01-27,30,Chile,Italiano,TikTok,2,1,14.0,2445.27
+1985,2025-03-05,38,Argentina,Alemán,Organico,2,0,,
+1986,2025-06-10,32,Brasil,Alemán,Youtube,1,0,,
+1987,2025-03-28,24,Brasil,Alemán,Youtube,5,1,6.0,1913.97
+1988,2025-06-23,18,Chile,Inglés,TikTok,1,0,,
+1989,2025-01-26,35,México,Francés,Organico,4,0,,
+1990,2025-03-02,41,México,Italiano,TikTok,3,1,26.0,985.46
+1991,2025-01-26,32,Colombia,Italiano,Organico,3,1,20.0,1447.69
+1992,2025-05-09,44,Chile,Japonés,Facebook,5,1,15.0,1880.36
+1993,2025-04-23,42,Argentina,Alemán,TikTok,1,1,19.0,1840.27
+1994,2025-05-29,25,Chile,Alemán,Organico,1,1,21.0,1660.15
+1995,2025-04-10,18,Colombia,Alemán,Youtube,4,0,,
+1996,2025-06-01,33,Chile,Italiano,Organico,3,0,,
+1997,2025-04-22,33,Chile,Japonés,Organico,1,1,21.0,2069.13
+1998,2025-03-10,32,Colombia,Inglés,TikTok,5,1,23.0,1306.46
+1999,2025-04-12,39,México,Francés,Facebook,3,1,9.0,2234.84
+2000,2025-07-09,18,Argentina,Inglés,Facebook,4,1,7.0,1962.95
