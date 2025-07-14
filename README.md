@@ -68,7 +68,7 @@ El dataset contiene 2,000 registros de leads generados sintéticamente con Pytho
 
 - `leads_educativos_EF.csv`: Dataset generado
 - `analisis_leads_EF.ipynb`: Notebook con análisis completo
-- `dashboard_leads_EF.twb`: Dashboard en Tableau (opcional)
+- `dashboard_leads_EF.twb`: Dashboard en Tableau (https://public.tableau.com/app/profile/jose.angel.mercado.vazquez/viz/AnalisisdeconversindeLeedsEducativos/Dashboard1?publish=yes)
 - `README.md`: Esta documentación
 
 ---
